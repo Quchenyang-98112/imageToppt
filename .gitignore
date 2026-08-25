@@ -1,0 +1,13 @@
+node_modules/
+.pnpm-store/
+.next/
+out/
+*.log
+*.tsbuildinfo
+.env.local
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+runs/
+qa-artifacts/

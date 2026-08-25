@@ -1,0 +1,216 @@
+{
+  "category": "decorative_shapes",
+  "label": "装饰形状",
+  "count": 3,
+  "contact_sheets": [
+    "contact_sheets/contact-001.png"
+  ],
+  "items": [
+    {
+      "id": "decor-shape-0001",
+      "category": "decorative_shapes",
+      "category_label": "装饰形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/decor-shape-0001.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 58,
+      "source_shape_name": "chart-series-segment-1",
+      "source_alt_text": "",
+      "shape_type": 5,
+      "auto_shape_type": 138,
+      "width": 93.0,
+      "height": 11.314,
+      "left": 568.5,
+      "top": 323.121,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#1768B5",
+        "line_weight": 2.25,
+        "line_dash": 1
+      },
+      "keywords": [
+        "chart",
+        "series",
+        "segment",
+        "1",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "00000000012001e7fcc0187e500000000000",
+      "normalized_sha256": "02e4bfc3b45a4b89cdd9e304573df0cbd3c09f796f79e16b3956701a84649eb9",
+      "color_signature": [
+        24,
+        108,
+        180,
+        0.02
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 58,
+          "source_shape_name": "chart-series-segment-1",
+          "raw_id": "raw-00137"
+        }
+      ]
+    },
+    {
+      "id": "decor-shape-0002",
+      "category": "decorative_shapes",
+      "category_label": "装饰形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/decor-shape-0002.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 59,
+      "source_shape_name": "chart-series-segment-2",
+      "source_alt_text": "",
+      "shape_type": 5,
+      "auto_shape_type": 138,
+      "width": 93.0,
+      "height": 14.143,
+      "left": 661.5,
+      "top": 308.979,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#1768B5",
+        "line_weight": 2.25,
+        "line_dash": 1
+      },
+      "keywords": [
+        "chart",
+        "series",
+        "segment",
+        "2",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "0000000000a181e7fcc0187c680000000000",
+      "normalized_sha256": "6ebed6bf226779ced0d316d38df7419b3a8bef0a4ff46d20e15d054b6bf101b7",
+      "color_signature": [
+        24,
+        108,
+        180,
+        0.02
+      ],
+      "occurrences": 4,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 59,
+          "source_shape_name": "chart-series-segment-2",
+          "raw_id": "raw-00138"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 60,
+          "source_shape_name": "chart-series-segment-3",
+          "raw_id": "raw-00139"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 61,
+          "source_shape_name": "chart-series-segment-4",
+          "raw_id": "raw-00140"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 62,
+          "source_shape_name": "chart-series-segment-5",
+          "raw_id": "raw-00141"
+        }
+      ]
+    },
+    {
+      "id": "decor-shape-0003",
+      "category": "decorative_shapes",
+      "category_label": "装饰形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/decor-shape-0003.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 13,
+      "source_shape_name": "core-statement-bg",
+      "source_alt_text": "",
+      "shape_type": 5,
+      "auto_shape_type": 138,
+      "width": 913.5,
+      "height": 50.25,
+      "left": 241.5,
+      "top": 163.5,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#FFFFFF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#4B91CD",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "core",
+        "statement",
+        "bg",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000000000800003003800000000000000",
+      "normalized_sha256": "5c9c8160fc71506ba80c35838be258c10d5b0756582ad03f3fb0d5f4d375ded9",
+      "color_signature": [
+        252,
+        252,
+        252,
+        0.04
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 13,
+          "source_shape_name": "core-statement-bg",
+          "raw_id": "raw-00164"
+        }
+      ]
+    }
+  ]
+}

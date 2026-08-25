@@ -1,0 +1,246 @@
+{
+  "category": "logos",
+  "label": "Logo 与品牌标志",
+  "count": 4,
+  "contact_sheets": [
+    "contact_sheets/contact-001.png"
+  ],
+  "items": [
+    {
+      "id": "logo-0001",
+      "category": "logos",
+      "category_label": "Logo 与品牌标志",
+      "asset_kind": "picture",
+      "preview": "previews/logo-0001.png",
+      "asset_png": "assets/png/logo-0001.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+      "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 117,
+      "source_shape_name": "Picture 116",
+      "source_alt_text": "",
+      "shape_type": 13,
+      "auto_shape_type": 1,
+      "width": 177.982,
+      "height": 39.0,
+      "left": 962.509,
+      "top": 12.75,
+      "slide_width": 1152.0,
+      "slide_height": 768.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "picture",
+        "116",
+        "李佳1",
+        "快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "0000000009006b3d6dd99223d08000000000",
+      "normalized_sha256": "1a1f8d50f557d4e7701fd36e843f3dace50493d48a811ac3bd2ee1f9e229d6b8",
+      "color_signature": [
+        204,
+        216,
+        228,
+        0.15
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 117,
+          "source_shape_name": "Picture 116",
+          "raw_id": "raw-00002"
+        }
+      ]
+    },
+    {
+      "id": "logo-0002",
+      "category": "logos",
+      "category_label": "Logo 与品牌标志",
+      "asset_kind": "picture",
+      "preview": "previews/logo-0002.png",
+      "asset_png": "assets/png/logo-0002.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 87,
+      "source_shape_name": "Picture 86",
+      "source_alt_text": "",
+      "shape_type": 13,
+      "auto_shape_type": 1,
+      "width": 54.0,
+      "height": 54.0,
+      "left": 1169.25,
+      "top": 5.25,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "picture",
+        "86",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "4d8bc4633c989fc9d0bb49e4cd9632bc44d8",
+      "normalized_sha256": "1a8a5ac07aff3bfd6f9fa0cc64dd4f826e6409f5e4f3bd89ac1b2c250592e3e1",
+      "color_signature": [
+        24,
+        96,
+        204,
+        0.26
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 87,
+          "source_shape_name": "Picture 86",
+          "raw_id": "raw-00159"
+        }
+      ]
+    },
+    {
+      "id": "logo-0003",
+      "category": "logos",
+      "category_label": "Logo 与品牌标志",
+      "asset_kind": "picture",
+      "preview": "previews/logo-0003.png",
+      "asset_png": "assets/png/logo-0003.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 104,
+      "source_shape_name": "Picture 103",
+      "source_alt_text": "",
+      "shape_type": 13,
+      "auto_shape_type": 1,
+      "width": 43.5,
+      "height": 43.5,
+      "left": 1133.25,
+      "top": 3.0,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "picture",
+        "103",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "00000006008c0632c85bc57853059c2c9126",
+      "normalized_sha256": "aa9bac863247d2f85be3302f010ac4d99ea768a3a24ebb6168e83c73e84673c8",
+      "color_signature": [
+        24,
+        96,
+        204,
+        0.13
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 104,
+          "source_shape_name": "Picture 103",
+          "raw_id": "raw-00110"
+        }
+      ]
+    },
+    {
+      "id": "logo-0004",
+      "category": "logos",
+      "category_label": "Logo 与品牌标志",
+      "asset_kind": "picture",
+      "preview": "previews/logo-0004.png",
+      "asset_png": "assets/png/logo-0004.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+      "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 148,
+      "source_shape_name": "Picture 147",
+      "source_alt_text": "",
+      "shape_type": 13,
+      "auto_shape_type": 1,
+      "width": 115.5,
+      "height": 90.75,
+      "left": 935.25,
+      "top": 96.0,
+      "slide_width": 1152.0,
+      "slide_height": 768.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "picture",
+        "147",
+        "李佳1",
+        "快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "0005803336c97313322cb3537a16c9130080",
+      "normalized_sha256": "e589db05208dfdfa08f4e293705724c18010448b719ca0ff7736a2ef8edfc765",
+      "color_signature": [
+        240,
+        216,
+        216,
+        0.55
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 148,
+          "source_shape_name": "Picture 147",
+          "raw_id": "raw-00019"
+        }
+      ]
+    }
+  ]
+}

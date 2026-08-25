@@ -1,0 +1,132 @@
+{
+  "category": "decorative_visuals",
+  "label": "装饰视觉",
+  "count": 2,
+  "contact_sheets": [
+    "contact_sheets/contact-001.png"
+  ],
+  "items": [
+    {
+      "id": "decor-visual-0001",
+      "category": "decorative_visuals",
+      "category_label": "装饰视觉",
+      "asset_kind": "picture",
+      "preview": "previews/decor-visual-0001.png",
+      "asset_png": "assets/png/decor-visual-0001.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 89,
+      "source_shape_name": "Picture 88",
+      "source_alt_text": "",
+      "shape_type": 13,
+      "auto_shape_type": 1,
+      "width": 450.0,
+      "height": 253.26,
+      "left": -133.5,
+      "top": 411.495,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "picture",
+        "88",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "0000000000840683d8d10908c100a0000000",
+      "normalized_sha256": "0b59ac91d6e6d3e947343af8649d87d7c867356f50a55f17e59ef87d6a9e4d60",
+      "color_signature": [
+        216,
+        240,
+        252,
+        0.09
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 89,
+          "source_shape_name": "Picture 88",
+          "raw_id": "raw-00160"
+        }
+      ]
+    },
+    {
+      "id": "decor-visual-0002",
+      "category": "decorative_visuals",
+      "category_label": "装饰视觉",
+      "asset_kind": "picture",
+      "preview": "previews/decor-visual-0002.png",
+      "asset_png": "assets/png/decor-visual-0002.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 2,
+      "source_shape_name": "Picture 1",
+      "source_alt_text": "top_decor_skyline.png",
+      "shape_type": 13,
+      "auto_shape_type": 1,
+      "width": 446.4,
+      "height": 90.72,
+      "left": 694.08,
+      "top": 0.0,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "picture",
+        "1",
+        "top",
+        "decor",
+        "skyline.png",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "00000000000003c1cc7f4270004000000000",
+      "normalized_sha256": "42955722a8f83062f7dbe573c386fa72495c6d1af848544a412534969d8fa72f",
+      "color_signature": [
+        204,
+        216,
+        252,
+        0.05
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 2,
+          "source_shape_name": "Picture 1",
+          "raw_id": "raw-00351"
+        }
+      ]
+    }
+  ]
+}

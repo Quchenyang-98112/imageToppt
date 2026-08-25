@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-08-22T14:21:45.3538927+08:00",
+  "repository": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\Image repository",
+  "source_decks": 8,
+  "source_slides": 14,
+  "raw_candidates": 518,
+  "unique_elements": 334,
+  "category_counts": {
+    "arrows": 12,
+    "backgrounds": 2,
+    "badges": 50,
+    "basic_shapes": 39,
+    "cards": 121,
+    "connectors": 6,
+    "decorative_shapes": 3,
+    "decorative_visuals": 2,
+    "icons": 68,
+    "lines": 27,
+    "logos": 4
+  },
+  "component_packs": {
+    "categories": [
+      {
+        "category": "arrows",
+        "expected_items": 12,
+        "component_pptx": true,
+        "mapped_pages": 12
+      },
+      {
+        "category": "backgrounds",
+        "expected_items": 2,
+        "component_pptx": true,
+        "mapped_pages": 2
+      },
+      {
+        "category": "badges",
+        "expected_items": 50,
+        "component_pptx": true,
+        "mapped_pages": 50
+      },
+      {
+        "category": "basic_shapes",
+        "expected_items": 39,
+        "component_pptx": true,
+        "mapped_pages": 39
+      },
+      {
+        "category": "cards",
+        "expected_items": 121,
+        "component_pptx": true,
+        "mapped_pages": 121
+      },
+      {
+        "category": "connectors",
+        "expected_items": 6,
+        "component_pptx": true,
+        "mapped_pages": 6
+      },
+      {
+        "category": "decorative_shapes",
+        "expected_items": 3,
+        "component_pptx": true,
+        "mapped_pages": 3
+      },
+      {
+        "category": "decorative_visuals",
+        "expected_items": 2,
+        "component_pptx": true,
+        "mapped_pages": 2
+      },
+      {
+        "category": "icons",
+        "expected_items": 68,
+        "component_pptx": true,
+        "mapped_pages": 68
+      },
+      {
+        "category": "lines",
+        "expected_items": 27,
+        "component_pptx": true,
+        "mapped_pages": 27
+      },
+      {
+        "category": "logos",
+        "expected_items": 4,
+        "component_pptx": true,
+        "mapped_pages": 4
+      }
+    ],
+    "total_pages": 334.0,
+    "errors": 0
+  },
+  "overview": {
+    "pptx": true,
+    "slides": 29,
+    "previews": 29
+  },
+  "asset_qa": {
+    "png_count": 76,
+    "alpha_png_count": 69,
+    "corrupt_pngs": 0
+  },
+  "packages": {
+    "directory": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\Image repository\\packages",
+    "zip_count": 12,
+    "all_zip": true
+  },
+  "notes": [
+    "PPTX组件包中的元素为独立可移动对象；图片型元素同时保留PNG资源。",
+    "复杂插画/图标以原始可编辑形状或PNG资源分层保留，文本未纳入图库。"
+  ]
+}

@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="280" viewBox="0 0 1600 280" role="img" aria-labelledby="title desc">
+  <title id="title">Knight ImageToPPTX Skill banner</title>
+  <desc id="desc">A compact premium diagram showing image, PPTX, and PDF pages being rebuilt into editable PowerPoint objects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F6FAFF"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B63FF"/>
+      <stop offset="1" stop-color="#0044C7"/>
+    </linearGradient>
+    <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#28D6E3"/>
+      <stop offset="1" stop-color="#0B7CE7"/>
+    </linearGradient>
+    <linearGradient id="softPanel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F8FBFF"/>
+    </linearGradient>
+    <filter id="shadow" x="-12%" y="-20%" width="124%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#123B7A" flood-opacity=".10"/>
+    </filter>
+    <filter id="tinyShadow" x="-10%" y="-18%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#123B7A" flood-opacity=".10"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M 1 1 L 11 6 L 1 11 Z" fill="#0B5CFF"/>
+    </marker>
+    <style>
+      .panel { fill: url(#softPanel); stroke: #C4D6F5; stroke-width: 1.4; filter: url(#shadow); }
+      .tile { fill: #FFFFFF; stroke: #C9D9F4; stroke-width: 1.3; filter: url(#tinyShadow); }
+      .thin { stroke: #D7E3F7; stroke-width: 1.1; }
+      .blueStroke { stroke: #0B5CFF; }
+      .aquaStroke { stroke: #18BFD2; }
+      .muted { fill: #6D7F9D; }
+      .ink { fill: #102A56; }
+      .label { font-family: Inter, "Segoe UI", Arial, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 1.4px; fill: #6D7F9D; }
+      .title { font-family: Inter, "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 800; letter-spacing: 0; fill: #0E2B57; }
+      .subtitle { font-family: Inter, "Segoe UI", Arial, sans-serif; font-size: 15px; font-weight: 600; letter-spacing: 0; fill: #526886; }
+      .small { font-family: Inter, "Segoe UI", Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #244260; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="280" fill="url(#bg)"/>
+  <path d="M 48 230 C 262 186 384 72 615 92 C 801 108 867 200 1054 191 C 1236 183 1336 92 1544 71" fill="none" stroke="#EAF2FF" stroke-width="30" stroke-linecap="round"/>
+  <path d="M 56 226 C 304 180 398 67 620 86" fill="none" stroke="#D5E3FA" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 1128 80 C 1278 52 1404 54 1520 79" fill="none" stroke="#D5E3FA" stroke-width="2" stroke-linecap="round"/>
+
+  <g transform="translate(54 42)">
+    <text class="label" x="0" y="0">KNIGHT IMAGETOPPTX SKILL</text>
+    <text class="title" x="0" y="36">Image pages to editable PPTX</text>
+    <text class="subtitle" x="1" y="64">Structure-aware rebuild · generated assets · native PowerPoint objects</text>
+  </g>
+
+  <g transform="translate(72 122)">
+    <rect class="tile" x="0" y="0" width="96" height="76" rx="18"/>
+    <path d="M 65 0 L 96 31 L 65 31 Z" fill="#F1F6FF" stroke="#C5D6F2" stroke-width="1.2"/>
+    <path d="M 20 52 L 38 34 L 52 47 L 63 38 L 80 58 L 20 58 Z" fill="url(#blue)"/>
+    <circle cx="73" cy="32" r="5" fill="#7EAAFF"/>
+    <rect x="20" y="62" width="42" height="4" rx="2" fill="#C9D7EE"/>
+
+    <rect class="tile" x="118" y="0" width="96" height="76" rx="18"/>
+    <rect x="137" y="18" width="58" height="40" rx="8" fill="#EDF4FF" stroke="#C5D6F2"/>
+    <rect x="146" y="27" width="22" height="14" rx="3" fill="#0B5CFF"/>
+    <rect x="173" y="28" width="14" height="4" rx="2" fill="#B4C5E3"/>
+    <rect x="173" y="38" width="18" height="4" rx="2" fill="#D0DBEF"/>
+    <rect x="146" y="48" width="42" height="4" rx="2" fill="#AFC2E2"/>
+
+    <rect class="tile" x="236" y="0" width="96" height="76" rx="18"/>
+    <path d="M 302 0 L 332 31 L 302 31 Z" fill="#F1F6FF" stroke="#C5D6F2" stroke-width="1.2"/>
+    <path d="M 263 54 C 274 36 288 39 294 50 C 300 62 313 60 319 45" fill="none" stroke="#0B5CFF" stroke-width="5" stroke-linecap="round"/>
+    <rect x="258" y="62" width="52" height="4" rx="2" fill="#C9D7EE"/>
+  </g>
+
+  <path d="M 430 158 C 472 158 502 150 534 140" fill="none" stroke="#0B5CFF" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g transform="translate(536 46)">
+    <rect class="panel" x="0" y="0" width="494" height="190" rx="24"/>
+    <rect x="28" y="26" width="178" height="32" rx="8" fill="url(#blue)"/>
+    <rect x="28" y="78" width="132" height="66" rx="12" fill="#EFF6FF" stroke="#C4D6F5"/>
+    <path d="M 42 132 L 70 101 L 91 121 L 106 106 L 148 144 L 42 144 Z" fill="#9DBDF5"/>
+    <circle cx="132" cy="98" r="8" fill="#7EAAFF"/>
+    <rect x="184" y="78" width="126" height="66" rx="12" fill="#FFFFFF" stroke="#C4D6F5"/>
+    <rect x="204" y="94" width="78" height="6" rx="3" fill="#1A2D4A"/>
+    <rect x="204" y="112" width="88" height="5" rx="2.5" fill="#AFC2E2"/>
+    <rect x="204" y="128" width="64" height="5" rx="2.5" fill="#D0DBEF"/>
+    <rect x="334" y="78" width="128" height="66" rx="12" fill="#FFFFFF" stroke="#C4D6F5"/>
+    <path d="M 334 100 H 462 M 334 122 H 462 M 366 78 V 144 M 398 78 V 144 M 430 78 V 144" class="thin"/>
+    <rect x="334" y="78" width="128" height="22" rx="12" fill="#EEF5FF"/>
+
+    <g transform="translate(36 160)">
+      <rect x="0" y="0" width="52" height="22" rx="7" fill="#FFFFFF" stroke="#C4D6F5"/>
+      <rect x="64" y="0" width="52" height="22" rx="7" fill="#FFFFFF" stroke="#C4D6F5"/>
+      <rect x="128" y="0" width="52" height="22" rx="7" fill="#FFFFFF" stroke="#C4D6F5"/>
+      <rect x="192" y="0" width="52" height="22" rx="7" fill="#FFFFFF" stroke="#C4D6F5"/>
+      <path d="M 15 15 V 8 M 25 15 V 5 M 35 15 V 11" stroke="#0B5CFF" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="90" cy="11" r="8" fill="none" stroke="#0B5CFF" stroke-width="4"/>
+      <path d="M 98 4 L 106 -4" stroke="#0B5CFF" stroke-width="4" stroke-linecap="round"/>
+      <path d="M 145 10 L 155 16 L 166 6" fill="none" stroke="#0B5CFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M 218 16 V 8 M 206 16 H 230 M 206 8 H 230 M 218 1 V 8" stroke="#0B5CFF" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <rect x="20" y="18" width="194" height="48" rx="12" fill="none" stroke="#0B5CFF" stroke-width="2" stroke-dasharray="7 7"/>
+    <circle cx="20" cy="18" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="214" cy="18" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="20" cy="66" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="214" cy="66" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="474" cy="23" r="5" fill="#18C7D2"/>
+  </g>
+
+  <path d="M 1032 140 C 1068 151 1104 158 1146 158" fill="none" stroke="#0B5CFF" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g transform="translate(1148 45)">
+    <rect x="0" y="22" width="92" height="148" rx="20" fill="#FFFFFF" stroke="#C4D6F5" stroke-width="1.4" filter="url(#tinyShadow)"/>
+    <rect x="19" y="43" width="54" height="24" rx="7" fill="#EFF6FF" stroke="#C4D6F5"/>
+    <rect x="19" y="82" width="54" height="24" rx="7" fill="#EFF6FF" stroke="#C4D6F5"/>
+    <rect x="19" y="121" width="54" height="24" rx="7" fill="#EFF6FF" stroke="#C4D6F5"/>
+    <rect x="13" y="36" width="66" height="38" rx="10" fill="none" stroke="#18BFD2" stroke-width="2" stroke-dasharray="6 7"/>
+
+    <rect class="panel" x="126" y="0" width="316" height="190" rx="24"/>
+    <rect x="126" y="0" width="316" height="36" rx="24" fill="#F2F7FF"/>
+    <circle cx="151" cy="18" r="5" fill="#FF5F57"/>
+    <circle cx="172" cy="18" r="5" fill="#FFBD2E"/>
+    <circle cx="193" cy="18" r="5" fill="#28C840"/>
+    <rect x="150" y="56" width="250" height="36" rx="10" fill="url(#blue)"/>
+    <rect x="150" y="112" width="84" height="48" rx="10" fill="#EFF6FF" stroke="#C4D6F5"/>
+    <path d="M 164 151 L 187 128 L 204 143 L 217 132 L 232 160 L 164 160 Z" fill="#9DBDF5"/>
+    <rect x="252" y="112" width="132" height="48" rx="10" fill="#FFFFFF" stroke="#C4D6F5"/>
+    <rect x="268" y="126" width="86" height="6" rx="3" fill="#1A2D4A"/>
+    <rect x="268" y="143" width="96" height="5" rx="2.5" fill="#AFC2E2"/>
+    <rect x="268" y="157" width="70" height="5" rx="2.5" fill="#D0DBEF"/>
+    <rect x="144" y="50" width="262" height="50" rx="13" fill="none" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="144" cy="50" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="406" cy="50" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="144" cy="100" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+    <circle cx="406" cy="100" r="4" fill="#FFFFFF" stroke="#0B5CFF" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(604 244)">
+    <rect x="0" y="0" width="392" height="18" rx="9" fill="#FFFFFF" stroke="#D1DDF1"/>
+    <circle cx="24" cy="9" r="4" fill="#0B5CFF"/>
+    <circle cx="128" cy="9" r="4" fill="#18BFD2"/>
+    <circle cx="240" cy="9" r="4" fill="#0B5CFF"/>
+    <circle cx="344" cy="9" r="4" fill="#18BFD2"/>
+    <rect x="36" y="6" width="66" height="6" rx="3" fill="#C8D7EF"/>
+    <rect x="140" y="6" width="76" height="6" rx="3" fill="#C8D7EF"/>
+    <rect x="252" y="6" width="66" height="6" rx="3" fill="#C8D7EF"/>
+    <rect x="356" y="6" width="22" height="6" rx="3" fill="#C8D7EF"/>
+  </g>
+</svg>

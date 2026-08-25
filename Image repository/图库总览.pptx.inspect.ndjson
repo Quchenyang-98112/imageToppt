@@ -1,0 +1,189 @@
+{"kind":"deck","id":"pr/flgt78","name":"Deck"}
+{"kind":"layout","layoutId":"154d6b73-c04f-454a-9727-ff02ea5403a9","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"9faa6180-a972-4d1d-b830-786735a5e0af","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/r5e92j","slide":1,"title":"PPT 非文本元素图库","textShapes":11}
+{"kind":"shape","id":"sh/jqxcvmpk","slide":1,"name":"cover-left-rail","bbox":[0,0,20,720]}
+{"kind":"textbox","id":"sh/kb6torq5","slide":1,"name":"cover-title","text":"PPT 非文本元素图库","textPreview":"PPT 非文本元素图库","textChars":11,"textLines":1,"bbox":[72,92,760,76]}
+{"kind":"textbox","id":"sh/lcfuxw7q","slide":1,"name":"cover-subtitle","text":"历史生成文件提取 · 视觉去重 · 分类组件包","textPreview":"历史生成文件提取 · 视觉去重 · 分类组件包","textChars":23,"textLines":1,"bbox":[74,176,720,42]}
+{"kind":"shape","id":"sh/6dobqh8b","slide":1,"name":"metric-1","bbox":[74,302,244,150]}
+{"kind":"textbox","id":"sh/7exczmpg","slide":1,"name":"metric-value-1","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[92,322,208,68]}
+{"kind":"textbox","id":"sh/8fqtsrq1","slide":1,"name":"metric-label-1","text":"历史 PPTX","textPreview":"历史 PPTX","textChars":7,"textLines":1,"bbox":[92,392,208,38]}
+{"kind":"shape","id":"sh/tgzu1w7m","slide":1,"name":"metric-2","bbox":[352,302,244,150]}
+{"kind":"textbox","id":"sh/uh8bu187","slide":1,"name":"metric-value-2","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[370,322,208,68]}
+{"kind":"textbox","id":"sh/vihc36ps","slide":1,"name":"metric-label-2","text":"来源页","textPreview":"来源页","textChars":3,"textLines":1,"bbox":[370,392,208,38]}
+{"kind":"shape","id":"sh/7y90j29k","slide":1,"name":"metric-3","bbox":[630,302,244,150]}
+{"kind":"textbox","id":"sh/mx0zqxsz","slide":1,"name":"metric-value-3","text":"518","textPreview":"518","textChars":3,"textLines":1,"bbox":[648,322,208,68]}
+{"kind":"textbox","id":"sh/90rilcra","slide":1,"name":"metric-label-3","text":"原始候选","textPreview":"原始候选","textChars":4,"textLines":1,"bbox":[648,392,208,38]}
+{"kind":"shape","id":"sh/8zihs7a5","slide":1,"name":"metric-4","bbox":[908,302,244,150]}
+{"kind":"textbox","id":"sh/zup0f298","slide":1,"name":"metric-value-4","text":"334","textPreview":"334","textChars":3,"textLines":1,"bbox":[926,322,208,68]}
+{"kind":"textbox","id":"sh/y9gzmxsn","slide":1,"name":"metric-label-4","text":"去重元素","textPreview":"去重元素","textChars":4,"textLines":1,"bbox":[926,392,208,38]}
+{"kind":"textbox","id":"sh/lwrihsre","slide":1,"name":"cover-note","text":"打开同目录 catalog.html 可搜索；各分类 components.pptx 每页保存一个可复制组件。","textPreview":"打开同目录 catalog.html 可搜索；各分类 components.pptx 每页保存一个可复制组件。","textChars":55,"textLines":1,"bbox":[74,566,1080,48]}
+{"kind":"notes","id":"nt/r5e92j","slide":1,"text":"[Sources]\n- Project-local historical PPTX files listed in manifest.json."}
+{"kind":"slide","id":"sl/qnkbba","slide":2,"title":"箭头与流程块","textShapes":2}
+{"kind":"shape","id":"sh/zqp8nyto","slide":2,"name":"category-rail-arrows-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/0ry9g3at","slide":2,"name":"category-title-arrows-0","text":"箭头与流程块","textPreview":"箭头与流程块","textChars":6,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/1s7qp8be","slide":2,"name":"category-meta-arrows-0","text":"12 个元素 · 预览 1/1","textPreview":"12 个元素 · 预览 1/1","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/7i50fihk","slide":2,"name":"","alt":"箭头与流程块 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/qnkbba","slide":2,"text":"[Sources]\n- Extracted project-local PPTX elements; see arrows/manifest.json."}
+{"kind":"slide","id":"sl/gtrwoc","slide":3,"title":"背景","textShapes":2}
+{"kind":"shape","id":"sh/onapkf21","slide":3,"name":"category-rail-backgrounds-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/nm18balg","slide":3,"name":"category-title-backgrounds-0","text":"背景","textPreview":"背景","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/2ls7i5kv","slide":3,"name":"category-meta-backgrounds-0","text":"2 个元素 · 预览 1/1","textPreview":"2 个元素 · 预览 1/1","textChars":14,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/gb61k3e9","slide":3,"name":"","alt":"背景 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/gtrwoc","slide":3,"text":"[Sources]\n- Extracted project-local PPTX elements; see backgrounds/manifest.json."}
+{"kind":"slide","id":"sl/jzi35k","slide":4,"title":"徽章与标签","textShapes":2}
+{"kind":"shape","id":"sh/29kvyhgn","slide":4,"name":"category-rail-badges-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/pcvetwzy","slide":4,"name":"category-title-badges-0","text":"徽章与标签","textPreview":"徽章与标签","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/obmd0ryd","slide":4,"name":"category-meta-badges-0","text":"50 个元素 · 预览 1/4","textPreview":"50 个元素 · 预览 1/4","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/i1476xs7","slide":4,"name":"","alt":"徽章与标签 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/jzi35k","slide":4,"text":"[Sources]\n- Extracted project-local PPTX elements; see badges/manifest.json."}
+{"kind":"slide","id":"sl/msqva1","slide":5,"title":"徽章与标签","textShapes":2}
+{"kind":"shape","id":"sh/xkfaxgfa","slide":5,"name":"category-rail-badges-1","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/ahor21wj","slide":5,"name":"category-title-badges-1","text":"徽章与标签","textPreview":"徽章与标签","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/bixsv6x4","slide":5,"name":"category-meta-badges-1","text":"50 个元素 · 预览 2/4","textPreview":"50 个元素 · 预览 2/4","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/pob2h47y","slide":5,"name":"","alt":"徽章与标签 contact sheet 2","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/msqva1","slide":5,"text":"[Sources]\n- Extracted project-local PPTX elements; see badges/manifest.json."}
+{"kind":"slide","id":"sl/9yk60t","slide":6,"title":"徽章与标签","textShapes":2}
+{"kind":"shape","id":"sh/jyp8jax0","slide":6,"name":"category-rail-badges-2","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/kzypcfyl","slide":6,"name":"category-title-badges-2","text":"徽章与标签","textPreview":"徽章与标签","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/507qlkfq","slide":6,"name":"category-meta-badges-2","text":"50 个元素 · 预览 3/4","textPreview":"50 个元素 · 预览 3/4","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/ry1g3atc","slide":6,"name":"","alt":"徽章与标签 contact sheet 3","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/9yk60t","slide":6,"text":"[Sources]\n- Extracted project-local PPTX elements; see badges/manifest.json."}
+{"kind":"slide","id":"sl/mchi0p","slide":7,"title":"徽章与标签","textShapes":2}
+{"kind":"shape","id":"sh/but47i1o","slide":7,"name":"category-rail-badges-3","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/wv2lgn29","slide":7,"name":"category-title-badges-3","text":"徽章与标签","textPreview":"徽章与标签","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/xwbm9sju","slide":7,"name":"category-meta-badges-3","text":"50 个元素 · 预览 4/4","textPreview":"50 个元素 · 预览 4/4","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/nyp8zqds","slide":7,"name":"","alt":"徽章与标签 contact sheet 4","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/mchi0p","slide":7,"text":"[Sources]\n- Extracted project-local PPTX elements; see badges/manifest.json."}
+{"kind":"slide","id":"sl/84uv97","slide":8,"title":"基础形状","textShapes":2}
+{"kind":"shape","id":"sh/z2l8bu9s","slide":8,"name":"category-rail-basic_shapes-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/03up4zad","slide":8,"name":"category-title-basic_shapes-0","text":"基础形状","textPreview":"基础形状","textChars":4,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/14nqd4ry","slide":8,"name":"category-meta-basic_shapes-0","text":"39 个元素 · 预览 1/3","textPreview":"39 个元素 · 预览 1/3","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/jm9szmlc","slide":8,"name":"","alt":"基础形状 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/84uv97","slide":8,"text":"[Sources]\n- Extracted project-local PPTX elements; see basic_shapes/manifest.json."}
+{"kind":"slide","id":"sl/uc0dkh","slide":9,"title":"基础形状","textShapes":2}
+{"kind":"shape","id":"sh/vi9wvmpk","slide":9,"name":"category-rail-basic_shapes-1","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/w3id4rq5","slide":9,"name":"category-title-basic_shapes-1","text":"基础形状","textPreview":"基础形状","textChars":4,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/h4bexw7q","slide":9,"name":"category-meta-basic_shapes-1","text":"39 个元素 · 预览 2/3","textPreview":"39 个元素 · 预览 2/3","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/vu9cvmds","slide":9,"name":"","alt":"基础形状 contact sheet 2","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/uc0dkh","slide":9,"text":"[Sources]\n- Extracted project-local PPTX elements; see basic_shapes/manifest.json."}
+{"kind":"slide","id":"sl/5i3xj1","slide":10,"title":"基础形状","textShapes":2}
+{"kind":"shape","id":"sh/ylgva90z","slide":10,"name":"category-rail-basic_shapes-2","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/l87el4zq","slide":10,"name":"category-title-basic_shapes-2","text":"基础形状","textPreview":"基础形状","textChars":4,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/0nydczi5","slide":10,"name":"category-meta-basic_shapes-2","text":"39 个元素 · 预览 3/3","textPreview":"39 个元素 · 预览 3/3","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/a9kbmdw3","slide":10,"name":"","alt":"基础形状 contact sheet 3","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/5i3xj1","slide":10,"text":"[Sources]\n- Extracted project-local PPTX elements; see basic_shapes/manifest.json."}
+{"kind":"slide","id":"sl/tznzq9","slide":11,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/2x4f658v","slide":11,"name":"category-rail-cards-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/p0vyh0r6","slide":11,"name":"category-title-cards-0","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/ozmx8fql","slide":11,"name":"category-meta-cards-0","text":"121 个元素 · 预览 1/8","textPreview":"121 个元素 · 预览 1/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/axsrqpgn","slide":11,"name":"","alt":"卡片与容器 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/tznzq9","slide":11,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/t8gop1","slide":12,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/d872tsjy","slide":12,"name":"category-rail-cards-1","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/q5gjid07","slide":12,"name":"category-title-cards-1","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/r6pkri1s","slide":12,"name":"category-meta-cards-1","text":"121 个元素 · 预览 2/8","textPreview":"121 个元素 · 预览 2/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/18nul0vm","slide":12,"name":"","alt":"卡片与容器 contact sheet 2","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/t8gop1","slide":12,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/g3fymu","slide":13,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/lgn25s36","slide":13,"name":"category-rail-cards-2","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/ydcjud4v","slide":13,"name":"category-title-cards-2","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/zelk3il0","slide":13,"name":"category-meta-cards-2","text":"121 个元素 · 预览 3/8","textPreview":"121 个元素 · 预览 3/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/dsbu54ry","slide":13,"name":"","alt":"卡片与容器 contact sheet 3","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/g3fymu","slide":13,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/oi620m","slide":14,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/z2h83ixs","slide":14,"name":"category-rail-cards-3","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/knqpwnyd","slide":14,"name":"category-title-cards-3","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/lojq5sfi","slide":14,"name":"category-meta-cards-3","text":"121 个元素 · 预览 4/8","textPreview":"121 个元素 · 预览 4/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/nu94fad0","slide":14,"name":"","alt":"卡片与容器 contact sheet 4","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/oi620m","slide":14,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/r4bc8w","slide":15,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/6toba18j","slide":15,"name":"category-rail-cards-4","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/twfu5g7a","slide":15,"name":"category-title-cards-4","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/sv6dcbqp","slide":15,"name":"category-meta-cards-4","text":"121 个元素 · 预览 5/8","textPreview":"121 个元素 · 预览 5/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/21c3214v","slide":15,"name":"","alt":"卡片与容器 contact sheet 5","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/r4bc8w","slide":15,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/f0ntc4","slide":16,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/bq90vixc","slide":16,"name":"category-rail-cards-5","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/cri1onyx","slide":16,"name":"category-title-cards-5","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/dsrixsfi","slide":16,"name":"category-meta-cards-5","text":"121 个元素 · 预览 6/8","textPreview":"121 个元素 · 预览 6/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/z6tc7y54","slide":16,"name":"","alt":"卡片与容器 contact sheet 6","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/f0ntc4","slide":16,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/4zurtl","slide":17,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/1sj6lkv2","slide":17,"name":"category-rail-cards-6","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/e5sna5wr","slide":17,"name":"category-title-cards-6","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/zq1ojadw","slide":17,"name":"category-meta-cards-6","text":"121 个元素 · 预览 7/8","textPreview":"121 个元素 · 预览 7/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/10n2dcj6","slide":17,"name":"","alt":"卡片与容器 contact sheet 7","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/4zurtl","slide":17,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/qwnhr2","slide":18,"title":"卡片与容器","textShapes":2}
+{"kind":"shape","id":"sh/4rat4zm1","slide":18,"name":"category-rail-cards-7","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/3q1svu5g","slide":18,"name":"category-title-cards-7","text":"卡片与容器","textPreview":"卡片与容器","textChars":5,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/2psb2p4b","slide":18,"name":"category-meta-cards-7","text":"121 个元素 · 预览 8/8","textPreview":"121 个元素 · 预览 8/8","textChars":16,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/ov2hgfe5","slide":18,"name":"","alt":"卡片与容器 contact sheet 8","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/qwnhr2","slide":18,"text":"[Sources]\n- Extracted project-local PPTX elements; see cards/manifest.json."}
+{"kind":"slide","id":"sl/ava1lv","slide":19,"title":"连接器","textShapes":2}
+{"kind":"shape","id":"sh/fipc3ex8","slide":19,"name":"category-rail-connectors-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/gjytcjet","slide":19,"name":"category-title-connectors-0","text":"连接器","textPreview":"连接器","textChars":3,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/1k7u5ove","slide":19,"name":"category-meta-connectors-0","text":"6 个元素 · 预览 1/1","textPreview":"6 个元素 · 预览 1/1","textChars":14,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/7618zahs","slide":19,"name":"","alt":"连接器 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/ava1lv","slide":19,"text":"[Sources]\n- Extracted project-local PPTX elements; see connectors/manifest.json."}
+{"kind":"slide","id":"sl/rcpf6k","slide":20,"title":"装饰形状","textShapes":2}
+{"kind":"shape","id":"sh/s3mtkf2p","slide":20,"name":"category-rail-decorative_shapes-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/r2dcba14","slide":20,"name":"category-title-decorative_shapes-0","text":"装饰形状","textPreview":"装饰形状","textChars":4,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/614bi5kj","slide":20,"name":"category-meta-decorative_shapes-0","text":"3 个元素 · 预览 1/1","textPreview":"3 个元素 · 预览 1/1","textChars":14,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/svel07y1","slide":20,"name":"","alt":"装饰形状 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/rcpf6k","slide":20,"text":"[Sources]\n- Extracted project-local PPTX elements; see decorative_shapes/manifest.json."}
+{"kind":"slide","id":"sl/selo8q","slide":21,"title":"装饰视觉","textShapes":2}
+{"kind":"shape","id":"sh/4bmxgvah","slide":21,"name":"category-rail-decorative_visuals-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/jadw7q9w","slide":21,"name":"category-title-decorative_visuals-0","text":"装饰视觉","textPreview":"装饰视觉","textChars":4,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/i94fe5sb","slide":21,"name":"category-meta-decorative_visuals-0","text":"2 个元素 · 预览 1/1","textPreview":"2 个元素 · 预览 1/1","textChars":14,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/8ni1s3q1","slide":21,"name":"","alt":"装饰视觉 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/selo8q","slide":21,"text":"[Sources]\n- Extracted project-local PPTX elements; see decorative_visuals/manifest.json."}
+{"kind":"slide","id":"sl/4jnbo1","slide":22,"title":"图标","textShapes":2}
+{"kind":"shape","id":"sh/wnmxonu9","slide":22,"name":"category-rail-icons-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/bmdwfito","slide":22,"name":"category-title-icons-0","text":"图标","textPreview":"图标","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/al4fmxc3","slide":22,"name":"category-meta-icons-0","text":"68 个元素 · 预览 1/5","textPreview":"68 个元素 · 预览 1/5","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/of2xsz2x","slide":22,"name":"","alt":"图标 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/4jnbo1","slide":22,"text":"[Sources]\n- Extracted project-local PPTX elements; see icons/manifest.json."}
+{"kind":"slide","id":"sl/fi1x79","slide":23,"title":"图标","textShapes":2}
+{"kind":"shape","id":"sh/q1cfu54v","slide":23,"name":"category-rail-icons-1","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/d43ep0nm","slide":23,"name":"category-title-icons-1","text":"图标","textPreview":"图标","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/c3uxwvm1","slide":23,"name":"category-meta-icons-1","text":"68 个元素 · 预览 2/5","textPreview":"68 个元素 · 预览 2/5","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/e9kfy9s3","slide":23,"name":"","alt":"图标 contact sheet 2","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/fi1x79","slide":23,"text":"[Sources]\n- Extracted project-local PPTX elements; see icons/manifest.json."}
+{"kind":"slide","id":"sl/vdk65f","slide":24,"title":"图标","textShapes":2}
+{"kind":"shape","id":"sh/u1sv29ov","slide":24,"name":"category-rail-icons-2","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/hojed4n6","slide":24,"name":"category-title-icons-2","text":"图标","textPreview":"图标","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/gnad4j61","slide":24,"name":"category-meta-icons-2","text":"68 个元素 · 预览 3/5","textPreview":"68 个元素 · 预览 3/5","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/yh87edcz","slide":24,"name":"","alt":"图标 contact sheet 3","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/vdk65f","slide":24,"text":"[Sources]\n- Extracted project-local PPTX elements; see icons/manifest.json."}
+{"kind":"slide","id":"sl/agjqmh","slide":25,"title":"图标","textShapes":2}
+{"kind":"shape","id":"sh/atc3qd8z","slide":25,"name":"category-rail-icons-3","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/xwnml8ra","slide":25,"name":"category-title-icons-3","text":"图标","textPreview":"图标","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/wvels3qp","slide":25,"name":"category-meta-icons-3","text":"68 个元素 · 预览 4/5","textPreview":"68 个元素 · 预览 4/5","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/a9czexof","slide":25,"name":"","alt":"图标 contact sheet 4","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/agjqmh","slide":25,"text":"[Sources]\n- Extracted project-local PPTX elements; see icons/manifest.json."}
+{"kind":"slide","id":"sl/rotera","slide":26,"title":"图标","textShapes":2}
+{"kind":"shape","id":"sh/lkjqloju","slide":26,"name":"category-rail-icons-4","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/yhs7a9kj","slide":26,"name":"category-title-icons-4","text":"图标","textPreview":"图标","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/ji18je14","slide":26,"name":"category-meta-icons-4","text":"68 个元素 · 预览 5/5","textPreview":"68 个元素 · 预览 5/5","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/l43mx8j2","slide":26,"name":"","alt":"图标 contact sheet 5","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/rotera","slide":26,"text":"[Sources]\n- Extracted project-local PPTX elements; see icons/manifest.json."}
+{"kind":"slide","id":"sl/6plbbs","slide":27,"title":"线条","textShapes":2}
+{"kind":"shape","id":"sh/z6903qd8","slide":27,"name":"category-rail-lines-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/07ihwvet","slide":27,"name":"category-title-lines-0","text":"线条","textPreview":"线条","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/l8ri50ve","slide":27,"name":"category-meta-lines-0","text":"27 个元素 · 预览 1/2","textPreview":"27 个元素 · 预览 1/2","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/bet0fe9o","slide":27,"name":"","alt":"线条 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/6plbbs","slide":27,"text":"[Sources]\n- Extracted project-local PPTX elements; see lines/manifest.json."}
+{"kind":"slide","id":"sl/erabth","slide":28,"title":"线条","textShapes":2}
+{"kind":"shape","id":"sh/ix8zalgz","slide":28,"name":"category-rail-lines-1","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/5kzy50za","slide":28,"name":"category-title-lines-1","text":"线条","textPreview":"线条","textChars":2,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/kjqhcvy5","slide":28,"name":"category-meta-lines-1","text":"27 个元素 · 预览 2/2","textPreview":"27 个元素 · 预览 2/2","textChars":15,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/udc72hoj","slide":28,"name":"","alt":"线条 contact sheet 2","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/erabth","slide":28,"text":"[Sources]\n- Extracted project-local PPTX elements; see lines/manifest.json."}
+{"kind":"slide","id":"sl/l8waaz","slide":29,"title":"Logo 与品牌标志","textShapes":2}
+{"kind":"shape","id":"sh/b298j21s","slide":29,"name":"category-rail-logos-0","bbox":[0,0,14,720]}
+{"kind":"textbox","id":"sh/w3ipcn2d","slide":29,"name":"category-title-logos-0","text":"Logo 与品牌标志","textPreview":"Logo 与品牌标志","textChars":10,"textLines":1,"bbox":[42,24,620,48]}
+{"kind":"textbox","id":"sh/x4rqlsjy","slide":29,"name":"category-meta-logos-0","text":"4 个元素 · 预览 1/1","textPreview":"4 个元素 · 预览 1/1","textChars":14,"textLines":1,"bbox":[830,30,390,36]}
+{"kind":"image","id":"im/7q5s3218","slide":29,"name":"","alt":"Logo 与品牌标志 contact sheet 1","bbox":[30,82,1220,610]}
+{"kind":"notes","id":"nt/l8waaz","slide":29,"text":"[Sources]\n- Extracted project-local PPTX elements; see logos/manifest.json."}

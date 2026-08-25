@@ -1,0 +1,2615 @@
+{
+  "category": "basic_shapes",
+  "label": "基础形状",
+  "count": 39,
+  "contact_sheets": [
+    "contact_sheets/contact-001.png",
+    "contact_sheets/contact-002.png",
+    "contact_sheets/contact-003.png"
+  ],
+  "items": [
+    {
+      "id": "shape-0001",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0001.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 21,
+      "source_shape_name": "prompt_loop_4",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 189.75,
+      "height": 172.5,
+      "left": 117.0,
+      "top": 303.75,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "4",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000300618d04802802802802d04618300000",
+      "normalized_sha256": "fc7657662a48fc080a2bfb71c3368f10fc4aa3d68a72d402455b427088803ace",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.01
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 21,
+          "source_shape_name": "prompt_loop_4",
+          "raw_id": "raw-00058"
+        }
+      ]
+    },
+    {
+      "id": "shape-0002",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0002.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 26,
+      "source_shape_name": "prompt_loop_9",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 141.75,
+      "height": 116.25,
+      "left": 144.75,
+      "top": 336.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "9",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "010180638c8c802a02a02802c8c638180010",
+      "normalized_sha256": "625a966d6f30a40143037cfb36172a6598fcf8aa8de754841ad0c1a7da2c07d1",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.02
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 26,
+          "source_shape_name": "prompt_loop_9",
+          "raw_id": "raw-00063"
+        }
+      ]
+    },
+    {
+      "id": "shape-0003",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0003.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 56,
+      "source_shape_name": "chart-legend-marker",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 7.5,
+      "height": 7.5,
+      "left": 954.0,
+      "top": 210.75,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#1768B5",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#1768B5",
+        "line_weight": 0.75,
+        "line_dash": 1
+      },
+      "keywords": [
+        "chart",
+        "legend",
+        "marker",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "9c47c07c1e08f00d04d04f00e887c13c21c4",
+      "normalized_sha256": "a671ec049651917373f6fdeeb2f904a460fdc1483d6c6ccb34b72211dd23eeb7",
+      "color_signature": [
+        24,
+        108,
+        180,
+        0.57
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 56,
+          "source_shape_name": "chart-legend-marker",
+          "raw_id": "raw-00136"
+        }
+      ]
+    },
+    {
+      "id": "shape-0004",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0004.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 16,
+      "source_shape_name": "quality-ring-dash",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 25,
+      "width": 109.524,
+      "height": 103.505,
+      "left": 50.393,
+      "top": 389.25,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 177.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#CDE4F5",
+        "line_weight": 3.75,
+        "line_dash": 1
+      },
+      "keywords": [
+        "quality",
+        "ring",
+        "dash",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "0008008008009004006803001800e003c000",
+      "normalized_sha256": "5724bc1728373aff5f36ec657335629809176b62d14bad53c447bbb0543330b6",
+      "color_signature": [
+        204,
+        228,
+        252,
+        0.04
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 16,
+          "source_shape_name": "quality-ring-dash",
+          "raw_id": "raw-00166"
+        }
+      ]
+    },
+    {
+      "id": "shape-0005",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0005.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\sources-batch\\七页原图批量可编辑复刻.pptx",
+      "source_deck_name": "七页原图批量可编辑复刻.pptx",
+      "source_slide": 4,
+      "source_shape_id": 4,
+      "source_shape_name": "auto_chip_4",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 170.25,
+      "height": 48.0,
+      "left": 76.5,
+      "top": 172.5,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#155DBB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "auto",
+        "chip",
+        "4",
+        "七页原图批量可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000c04203d04d04d04d04003800000000",
+      "normalized_sha256": "a2971c7d31099486f31cdb720150b32c8c346f986f3240ab0ce6cbee9f09f6f4",
+      "color_signature": [
+        24,
+        96,
+        192,
+        0.18
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\sources-batch\\七页原图批量可编辑复刻.pptx",
+          "source_deck_name": "七页原图批量可编辑复刻.pptx",
+          "source_slide": 4,
+          "source_shape_id": 4,
+          "source_shape_name": "auto_chip_4",
+          "raw_id": "raw-00307"
+        }
+      ]
+    },
+    {
+      "id": "shape-0006",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0006.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 63,
+      "source_shape_name": "chart-marker-1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 9.0,
+      "height": 9.0,
+      "left": 564.0,
+      "top": 329.936,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#FFFFFF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#1768B5",
+        "line_weight": 2.25,
+        "line_dash": 1
+      },
+      "keywords": [
+        "chart",
+        "marker",
+        "1",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "5c4bc2731e38c1ccaccacc1ce38731bc25c4",
+      "normalized_sha256": "ce05bad4c8af085230c709052ecc7e733571238ffa967e5d79b9673addd8ec38",
+      "color_signature": [
+        96,
+        156,
+        204,
+        0.56
+      ],
+      "occurrences": 6,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 63,
+          "source_shape_name": "chart-marker-1",
+          "raw_id": "raw-00142"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 66,
+          "source_shape_name": "chart-marker-2",
+          "raw_id": "raw-00143"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 69,
+          "source_shape_name": "chart-marker-3",
+          "raw_id": "raw-00144"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 72,
+          "source_shape_name": "chart-marker-4",
+          "raw_id": "raw-00145"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 75,
+          "source_shape_name": "chart-marker-5",
+          "raw_id": "raw-00146"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 78,
+          "source_shape_name": "chart-marker-6",
+          "raw_id": "raw-00147"
+        }
+      ]
+    },
+    {
+      "id": "shape-0007",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0007.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 35,
+      "source_shape_name": "Oval 34",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 63.36,
+      "height": 63.36,
+      "left": 645.84,
+      "top": 130.32,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#EEF6FF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#CEE1FC",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "oval",
+        "34",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "10023041c904806806806916c8c6393a20c8",
+      "normalized_sha256": "482649928e0a19090bfcbea975249e8ee9931619b2cdfb36b48c51bf2518aec8",
+      "color_signature": [
+        240,
+        240,
+        252,
+        0.44
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 35,
+          "source_shape_name": "Oval 34",
+          "raw_id": "raw-00369"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 41,
+          "source_shape_name": "Oval 40",
+          "raw_id": "raw-00372"
+        }
+      ]
+    },
+    {
+      "id": "shape-0008",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0008.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\sources-batch\\七页原图批量可编辑复刻.pptx",
+      "source_deck_name": "七页原图批量可编辑复刻.pptx",
+      "source_slide": 2,
+      "source_shape_id": 3,
+      "source_shape_name": "fast_mark_2",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 41.25,
+      "height": 31.5,
+      "left": 969.0,
+      "top": 16.5,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#2377E6",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "fast",
+        "mark",
+        "2",
+        "七页原图批量可编辑复刻.pptx"
+      ],
+      "visual_dhash": "00010a704684684688e09d09d09d11004400",
+      "normalized_sha256": "67d276651eaf2c5cbefbb1b91d3dc4811c8e2a09ff28186df88454f56f443151",
+      "color_signature": [
+        36,
+        120,
+        228,
+        0.44
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\sources-batch\\七页原图批量可编辑复刻.pptx",
+          "source_deck_name": "七页原图批量可编辑复刻.pptx",
+          "source_slide": 2,
+          "source_shape_id": 3,
+          "source_shape_name": "fast_mark_2",
+          "raw_id": "raw-00254"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\sources-batch\\七页原图批量可编辑复刻.pptx",
+          "source_deck_name": "七页原图批量可编辑复刻.pptx",
+          "source_slide": 3,
+          "source_shape_id": 3,
+          "source_shape_name": "fast_mark_3",
+          "raw_id": "raw-00283"
+        }
+      ]
+    },
+    {
+      "id": "shape-0009",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0009.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 24,
+      "source_shape_name": "prompt_loop_7",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 166.5,
+      "height": 158.25,
+      "left": 130.5,
+      "top": 312.75,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "7",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "1c033040c906a02802802a02904418320080",
+      "normalized_sha256": "0f98e8a5bba500c669ec1f2bc04b4945dab8f7de8db967eb0563c28a09e0e21a",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.02
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 24,
+          "source_shape_name": "prompt_loop_7",
+          "raw_id": "raw-00061"
+        }
+      ]
+    },
+    {
+      "id": "shape-0010",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0010.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 25,
+      "source_shape_name": "prompt_loop_8",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 199.5,
+      "height": 101.25,
+      "left": 113.25,
+      "top": 341.25,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "8",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000000720c1ca02a02c1c720000000000",
+      "normalized_sha256": "8d7281d97db3c4203692b26a8a5152af8aee27cf3a3a2bbbeb46455f1e4c5ad3",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.01
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 25,
+          "source_shape_name": "prompt_loop_8",
+          "raw_id": "raw-00062"
+        }
+      ]
+    },
+    {
+      "id": "shape-0011",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0011.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+      "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 13,
+      "source_shape_name": "Oval 12",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 8.25,
+      "height": 8.25,
+      "left": 54.75,
+      "top": 197.25,
+      "slide_width": 1152.0,
+      "slide_height": 768.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#D70A0A",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "oval",
+        "12",
+        "李佳1",
+        "快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "9c47c0fc0e88f80d04d00f80e887c13c29c4",
+      "normalized_sha256": "58103d8950522db75f1445b265f7aca8bdf7f78b7709f713166b27d5c84aff4a",
+      "color_signature": [
+        216,
+        12,
+        12,
+        0.56
+      ],
+      "occurrences": 10,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 13,
+          "source_shape_name": "Oval 12",
+          "raw_id": "raw-00008"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 21,
+          "source_shape_name": "Oval 20",
+          "raw_id": "raw-00012"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 29,
+          "source_shape_name": "Oval 28",
+          "raw_id": "raw-00016"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 37,
+          "source_shape_name": "Oval 36",
+          "raw_id": "raw-00020"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 39,
+          "source_shape_name": "Oval 38",
+          "raw_id": "raw-00021"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 41,
+          "source_shape_name": "Oval 40",
+          "raw_id": "raw-00022"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 99,
+          "source_shape_name": "Oval 98",
+          "raw_id": "raw-00041"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 101,
+          "source_shape_name": "Oval 100",
+          "raw_id": "raw-00042"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 103,
+          "source_shape_name": "Oval 102",
+          "raw_id": "raw-00043"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 105,
+          "source_shape_name": "Oval 104",
+          "raw_id": "raw-00044"
+        }
+      ]
+    },
+    {
+      "id": "shape-0012",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0012.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 203,
+      "source_shape_name": "Oval 202",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 15.12,
+      "height": 15.12,
+      "left": 605.52,
+      "top": 496.08,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0068DB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "oval",
+        "202",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "3384c4bc2b11749789f50f807c03c01c0000",
+      "normalized_sha256": "93e665495e346ceac5ebaac49f23b02b218e53f67c59dbb737c3d525cca1990d",
+      "color_signature": [
+        0,
+        108,
+        216,
+        0.27
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 203,
+          "source_shape_name": "Oval 202",
+          "raw_id": "raw-00463"
+        }
+      ]
+    },
+    {
+      "id": "shape-0013",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0013.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 18,
+      "source_shape_name": "prompt_loop_1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 183.75,
+      "height": 112.5,
+      "left": 123.0,
+      "top": 331.5,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "1",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000380638806a02a02806638180000000",
+      "normalized_sha256": "cde85a76204f4defaa82e0097949fc18a6c7e5076a473eaf233d8e9e228d72c7",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.01
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 18,
+          "source_shape_name": "prompt_loop_1",
+          "raw_id": "raw-00055"
+        }
+      ]
+    },
+    {
+      "id": "shape-0014",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0014.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 29,
+      "source_shape_name": "Oval 28",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 63.36,
+      "height": 63.36,
+      "left": 550.08,
+      "top": 130.32,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#EEF6FF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#CEE1FC",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "oval",
+        "28",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "10033040c906806802802916c8c6393a20c8",
+      "normalized_sha256": "1f8476abb08cb0ea42d2d4bfaa77f9feecc7800a5fd47eee1cf2615c1663dd1f",
+      "color_signature": [
+        240,
+        240,
+        252,
+        0.45
+      ],
+      "occurrences": 3,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 29,
+          "source_shape_name": "Oval 28",
+          "raw_id": "raw-00366"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 47,
+          "source_shape_name": "Oval 46",
+          "raw_id": "raw-00375"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 53,
+          "source_shape_name": "Oval 52",
+          "raw_id": "raw-00378"
+        }
+      ]
+    },
+    {
+      "id": "shape-0015",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0015.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\sources-batch\\七页原图批量可编辑复刻.pptx",
+      "source_deck_name": "七页原图批量可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 3,
+      "source_shape_name": "fast_mark_1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 37.906,
+      "height": 28.947,
+      "left": 988.146,
+      "top": 15.163,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#2377E6",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "fast",
+        "mark",
+        "1",
+        "七页原图批量可编辑复刻.pptx"
+      ],
+      "visual_dhash": "001300704684684688e09d09d09d11800008",
+      "normalized_sha256": "2ca3a2b34dde7b608893e6582c7e73947d47af80b1c35ca557319461d794b2d2",
+      "color_signature": [
+        36,
+        120,
+        228,
+        0.44
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\sources-batch\\七页原图批量可编辑复刻.pptx",
+          "source_deck_name": "七页原图批量可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 3,
+          "source_shape_name": "fast_mark_1",
+          "raw_id": "raw-00236"
+        }
+      ]
+    },
+    {
+      "id": "shape-0016",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0016.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 13,
+      "source_shape_name": "Oval 12",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 29.856,
+      "height": 29.856,
+      "left": 36.746,
+      "top": 197.512,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0E5BE8",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "oval",
+        "12",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "4ccbc2731ec8d04d04d04d04e88731bc24cc",
+      "normalized_sha256": "850f68884a1ad5cc586a10de6d17a5b2d2434a152672f28d6829dcf25c25e1d6",
+      "color_signature": [
+        12,
+        96,
+        228,
+        0.53
+      ],
+      "occurrences": 3,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 13,
+          "source_shape_name": "Oval 12",
+          "raw_id": "raw-00486"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 23,
+          "source_shape_name": "Oval 22",
+          "raw_id": "raw-00490"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 28,
+          "source_shape_name": "Oval 27",
+          "raw_id": "raw-00492"
+        }
+      ]
+    },
+    {
+      "id": "shape-0017",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0017.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 3,
+      "source_shape_name": "brand_mark_top",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 31.5,
+      "height": 13.5,
+      "left": 1044.75,
+      "top": 25.5,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#1C78E7",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "brand",
+        "mark",
+        "top",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000400103684e84d04d04d08c08006c00000",
+      "normalized_sha256": "4938833256cc4f2978bfd3204501a3b752c0536e4a109c6fcf4e343c512aabdf",
+      "color_signature": [
+        24,
+        120,
+        228,
+        0.27
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 3,
+          "source_shape_name": "brand_mark_top",
+          "raw_id": "raw-00049"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 123,
+          "source_shape_name": "footer_brand_mark_top",
+          "raw_id": "raw-00102"
+        }
+      ]
+    },
+    {
+      "id": "shape-0018",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0018.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 31,
+      "source_shape_name": "Oval 30",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 17.28,
+      "height": 17.28,
+      "left": 574.56,
+      "top": 122.4,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0068DB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "oval",
+        "30",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "2304ccbc2730689689751f007c03c01c0000",
+      "normalized_sha256": "11ba3fbfe0c2a5bb980c0aa460531461d518b80c021a00486f3357a23ad0f301",
+      "color_signature": [
+        0,
+        108,
+        216,
+        0.28
+      ],
+      "occurrences": 5,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 31,
+          "source_shape_name": "Oval 30",
+          "raw_id": "raw-00368"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 37,
+          "source_shape_name": "Oval 36",
+          "raw_id": "raw-00371"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 43,
+          "source_shape_name": "Oval 42",
+          "raw_id": "raw-00374"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 49,
+          "source_shape_name": "Oval 48",
+          "raw_id": "raw-00377"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 55,
+          "source_shape_name": "Oval 54",
+          "raw_id": "raw-00380"
+        }
+      ]
+    },
+    {
+      "id": "shape-0019",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0019.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 208,
+      "source_shape_name": "Parallelogram 207",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 48.96,
+      "height": 27.36,
+      "left": 154.8,
+      "top": 528.48,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#003FAB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "parallelogram",
+        "207",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "000400102604688689e89d09d1100ec00000",
+      "normalized_sha256": "7448cdc91757a0115071b9e3055d37547921c113dc1630bc27f235cb51be7717",
+      "color_signature": [
+        0,
+        60,
+        168,
+        0.27
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 208,
+          "source_shape_name": "Parallelogram 207",
+          "raw_id": "raw-00466"
+        }
+      ]
+    },
+    {
+      "id": "shape-0020",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0020.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 15,
+      "source_shape_name": "quality-ring-main",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 25,
+      "width": 118.032,
+      "height": 107.239,
+      "left": 145.179,
+      "top": 280.511,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 353.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E80C6",
+        "line_weight": 9.75,
+        "line_dash": 1
+      },
+      "keywords": [
+        "quality",
+        "ring",
+        "main",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "380c60c183c447219902d014016016006001",
+      "normalized_sha256": "79af99f144bf59c63155a8fe75744316dc7b455f8c7d5385d6be5b05228ac33b",
+      "color_signature": [
+        48,
+        132,
+        204,
+        0.08
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 15,
+          "source_shape_name": "quality-ring-main",
+          "raw_id": "raw-00165"
+        }
+      ]
+    },
+    {
+      "id": "shape-0021",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0021.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 4,
+      "source_shape_name": "brand_mark_bottom",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 26.25,
+      "height": 13.5,
+      "left": 1038.0,
+      "top": 39.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#45B8F6",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "brand",
+        "mark",
+        "bottom",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000400803684e84e04d08d08d09206800000",
+      "normalized_sha256": "2f7e3854657e7da778dd73147870bfeccd1616aee781b3f523c1678e6681f145",
+      "color_signature": [
+        72,
+        180,
+        252,
+        0.32
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 4,
+          "source_shape_name": "brand_mark_bottom",
+          "raw_id": "raw-00050"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 124,
+          "source_shape_name": "footer_brand_mark_bottom",
+          "raw_id": "raw-00103"
+        }
+      ]
+    },
+    {
+      "id": "shape-0022",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0022.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 191,
+      "source_shape_name": "Oval 190",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 12.96,
+      "height": 12.96,
+      "left": 1051.2,
+      "top": 316.08,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#1F8B5A",
+        "line_weight": 1.5,
+        "line_dash": 1
+      },
+      "keywords": [
+        "oval",
+        "190",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "2305ccba2a5a639639e58f307c03c01c0000",
+      "normalized_sha256": "f339e3762cb8b60983d11eb3228d260704a78d693a09302bb3f876d2cf49b191",
+      "color_signature": [
+        24,
+        132,
+        84,
+        0.11
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 191,
+          "source_shape_name": "Oval 190",
+          "raw_id": "raw-00459"
+        }
+      ]
+    },
+    {
+      "id": "shape-0023",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0023.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 5,
+      "source_shape_name": "bottom-left-arc-2",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 25,
+      "width": 123.784,
+      "height": 158.612,
+      "left": 54.75,
+      "top": 446.213,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 20.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#EAF3FB",
+        "line_weight": 27.0,
+        "line_dash": 1
+      },
+      "keywords": [
+        "bottom",
+        "left",
+        "arc",
+        "2",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000080020000000000000000004000000000",
+      "normalized_sha256": "9233e9bddb37eb91a1afd0c781f57b351b58578f20f635d47a97e33d846e4a2b",
+      "color_signature": [
+        240,
+        240,
+        252,
+        0.12
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 5,
+          "source_shape_name": "bottom-left-arc-2",
+          "raw_id": "raw-00109"
+        }
+      ]
+    },
+    {
+      "id": "shape-0024",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0024.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 61,
+      "source_shape_name": "Oval 60",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 17.28,
+      "height": 17.28,
+      "left": 1062.72,
+      "top": 122.4,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0068DB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "oval",
+        "60",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "3384c4bc2711689689749f907c03c01c0000",
+      "normalized_sha256": "ffb3abe550dccd7906b68a02b71da73582ecdb1edbf52afdddd021c512ff9b7c",
+      "color_signature": [
+        0,
+        108,
+        216,
+        0.29
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 61,
+          "source_shape_name": "Oval 60",
+          "raw_id": "raw-00383"
+        }
+      ]
+    },
+    {
+      "id": "shape-0025",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0025.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 8,
+      "source_shape_name": "Oval 7",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 29.856,
+      "height": 29.856,
+      "left": 36.746,
+      "top": 122.297,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0E5BE8",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "oval",
+        "7",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "5ccbc2731cccd04d04d04d04c88731bc24cc",
+      "normalized_sha256": "fa1e9f68b8a8fa73a90bf5ec2325f3f23339aedf63d459c17d82145f4bbc9a78",
+      "color_signature": [
+        12,
+        96,
+        228,
+        0.55
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 8,
+          "source_shape_name": "Oval 7",
+          "raw_id": "raw-00484"
+        }
+      ]
+    },
+    {
+      "id": "shape-0026",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0026.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 19,
+      "source_shape_name": "prompt_loop_2",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 156.0,
+      "height": 138.0,
+      "left": 135.75,
+      "top": 318.75,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "2",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "088302638d04a02202a02802d0c638380088",
+      "normalized_sha256": "bafb2fc45fc7d1ef41b2c686c8c202151ee6d7b391526c66e5c4c68ec5b16b54",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.02
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 19,
+          "source_shape_name": "prompt_loop_2",
+          "raw_id": "raw-00056"
+        }
+      ]
+    },
+    {
+      "id": "shape-0027",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0027.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 59,
+      "source_shape_name": "Oval 58",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 63.36,
+      "height": 63.36,
+      "left": 1038.24,
+      "top": 130.32,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#EEF6FF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#CEE1FC",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "oval",
+        "58",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "10023040c904806806806916c8c6393a20c8",
+      "normalized_sha256": "4a18fafadecaa7ca2c097da114766bc7b26a9f1e1cc4ff267a1978f909df03bc",
+      "color_signature": [
+        240,
+        240,
+        252,
+        0.44
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 59,
+          "source_shape_name": "Oval 58",
+          "raw_id": "raw-00381"
+        }
+      ]
+    },
+    {
+      "id": "shape-0028",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0028.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 23,
+      "source_shape_name": "prompt_loop_6",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 225.0,
+      "height": 114.75,
+      "left": 99.0,
+      "top": 333.75,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "6",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000000600c1c802802c1c600000000000",
+      "normalized_sha256": "b8b0d8f3b57f0afa7e01e2e7e66a8eddb9c37b77a2690db3cbbadd351dd43773",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.0
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 23,
+          "source_shape_name": "prompt_loop_6",
+          "raw_id": "raw-00060"
+        }
+      ]
+    },
+    {
+      "id": "shape-0029",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0029.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 95,
+      "source_shape_name": "mountain_base_2",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 7,
+      "width": 141.0,
+      "height": 64.5,
+      "left": 945.0,
+      "top": 481.5,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#F2F8FF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "mountain",
+        "base",
+        "2",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "00000000002013001880e107003400000000",
+      "normalized_sha256": "12af4ef650592c2e344b75f7ff5dd973af05055149e06f1e62dde8804e404e7c",
+      "color_signature": [
+        240,
+        252,
+        252,
+        0.16
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 95,
+          "source_shape_name": "mountain_base_2",
+          "raw_id": "raw-00088"
+        }
+      ]
+    },
+    {
+      "id": "shape-0030",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0030.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 227,
+      "source_shape_name": "Parallelogram 226",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 126.72,
+      "height": 56.16,
+      "left": 611.28,
+      "top": 640.8,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#003FAB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "parallelogram",
+        "226",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "000600803684684e84d08d09c09006800000",
+      "normalized_sha256": "d6a857c1f9539eef86380a2d797764a3756b920635d1eda79b0c3b61289d5315",
+      "color_signature": [
+        0,
+        60,
+        168,
+        0.26
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 227,
+          "source_shape_name": "Parallelogram 226",
+          "raw_id": "raw-00476"
+        }
+      ]
+    },
+    {
+      "id": "shape-0031",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0031.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 19,
+      "source_shape_name": "judgement-icon-host-1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 72.0,
+      "height": 72.0,
+      "left": 283.5,
+      "top": 249.75,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#DEECF9",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "judgement",
+        "icon",
+        "host",
+        "1",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "0c0380600c00c00c00c00c00c006003c0040",
+      "normalized_sha256": "2fc8a9988d3fe783a728e9541d91309bb1d003eee753f5fec4308f56535499cf",
+      "color_signature": [
+        228,
+        240,
+        252,
+        0.55
+      ],
+      "occurrences": 3,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 19,
+          "source_shape_name": "judgement-icon-host-1",
+          "raw_id": "raw-00167"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 27,
+          "source_shape_name": "judgement-icon-host-2",
+          "raw_id": "raw-00172"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 35,
+          "source_shape_name": "judgement-icon-host-3",
+          "raw_id": "raw-00177"
+        }
+      ]
+    },
+    {
+      "id": "shape-0032",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0032.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 4,
+      "source_shape_name": "bottom-left-arc-1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 25,
+      "width": 99.623,
+      "height": 139.766,
+      "left": 54.0,
+      "top": 407.689,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 25.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#D8E8F7",
+        "line_weight": 13.5,
+        "line_dash": 1
+      },
+      "keywords": [
+        "bottom",
+        "left",
+        "arc",
+        "1",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "0401001c0048020024030030030024020000",
+      "normalized_sha256": "606b88114b95759ab942d0b7725df7ebb41911bab34fc5619356b27e8a4d6dfd",
+      "color_signature": [
+        216,
+        228,
+        252,
+        0.07
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 4,
+          "source_shape_name": "bottom-left-arc-1",
+          "raw_id": "raw-00108"
+        }
+      ]
+    },
+    {
+      "id": "shape-0033",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0033.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 22,
+      "source_shape_name": "prompt_loop_5",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 135.0,
+      "height": 129.75,
+      "left": 147.75,
+      "top": 324.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "5",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "1c433041c906a02a02a02a0290441c330184",
+      "normalized_sha256": "227091695e69a44b4844c84ec11ee806fb2f1016cedcbb384b914305fc7b722b",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.02
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 22,
+          "source_shape_name": "prompt_loop_5",
+          "raw_id": "raw-00059"
+        }
+      ]
+    },
+    {
+      "id": "shape-0034",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0034.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 7,
+      "source_shape_name": "Parallelogram 6",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 48.96,
+      "height": 27.36,
+      "left": 128.88,
+      "top": 88.56,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#003FAB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "parallelogram",
+        "6",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "200002300704688689e89d11c1120ec00000",
+      "normalized_sha256": "ef5f7c50a81825f98808ed8b385595f1411f7fbfee0909bef5ff6bbc685179d2",
+      "color_signature": [
+        0,
+        60,
+        168,
+        0.27
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 7,
+          "source_shape_name": "Parallelogram 6",
+          "raw_id": "raw-00354"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 27,
+          "source_shape_name": "Parallelogram 26",
+          "raw_id": "raw-00365"
+        }
+      ]
+    },
+    {
+      "id": "shape-0035",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0035.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 94,
+      "source_shape_name": "mountain_base_1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 7,
+      "width": 172.5,
+      "height": 97.5,
+      "left": 1029.0,
+      "top": 448.5,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#EAF4FF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "mountain",
+        "base",
+        "1",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000040020010008004002003000000000",
+      "normalized_sha256": "03d387f90b38c8edd3cd46232a4d10caa5b3df7f116b2e5d571ac5614ccaa5b9",
+      "color_signature": [
+        240,
+        240,
+        252,
+        0.2
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 94,
+          "source_shape_name": "mountain_base_1",
+          "raw_id": "raw-00087"
+        }
+      ]
+    },
+    {
+      "id": "shape-0036",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0036.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 18,
+      "source_shape_name": "Oval 17",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 29.856,
+      "height": 29.856,
+      "left": 36.746,
+      "top": 272.727,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0E5BE8",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "oval",
+        "17",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "4ccbc2731ec8d04d04d04d04c88731bc24cc",
+      "normalized_sha256": "e88f7c97a8b6669daf3b589648c8702bcbfe70f79fff79c62715b3812efe7eaa",
+      "color_signature": [
+        12,
+        96,
+        228,
+        0.54
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 18,
+          "source_shape_name": "Oval 17",
+          "raw_id": "raw-00488"
+        }
+      ]
+    },
+    {
+      "id": "shape-0037",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0037.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 102,
+      "source_shape_name": "evolution_node_1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 13.5,
+      "height": 13.5,
+      "left": 869.25,
+      "top": 507.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#D6E7FF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#6A9AF1",
+        "line_weight": 1.5,
+        "line_dash": 1
+      },
+      "keywords": [
+        "evolution",
+        "node",
+        "1",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "5c4bc2639ccc936916916934ccc639bc24cc",
+      "normalized_sha256": "49d8f9b6fb8eb0e0e1c9053b621729db6c4dab9f3625babcdb3b0c6f430dd259",
+      "color_signature": [
+        168,
+        204,
+        252,
+        0.56
+      ],
+      "occurrences": 4,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 102,
+          "source_shape_name": "evolution_node_1",
+          "raw_id": "raw-00095"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 103,
+          "source_shape_name": "evolution_node_2",
+          "raw_id": "raw-00096"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 104,
+          "source_shape_name": "evolution_node_3",
+          "raw_id": "raw-00097"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 105,
+          "source_shape_name": "evolution_node_4",
+          "raw_id": "raw-00098"
+        }
+      ]
+    },
+    {
+      "id": "shape-0038",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0038.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 20,
+      "source_shape_name": "prompt_loop_3",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 9,
+      "width": 205.5,
+      "height": 84.75,
+      "left": 108.75,
+      "top": 347.25,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#2E79F3",
+        "line_weight": 0.9,
+        "line_dash": 1
+      },
+      "keywords": [
+        "prompt",
+        "loop",
+        "3",
+        "李佳3",
+        "视觉ocr快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000000300c1c802806c3c3a0000000000",
+      "normalized_sha256": "0463bc6faf559949043c17e609bc8c47b6d5c52f805d5ca087eac89c74ed6636",
+      "color_signature": [
+        48,
+        120,
+        240,
+        0.01
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳3-fast-vision\\李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_deck_name": "李佳3_视觉OCR快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 20,
+          "source_shape_name": "prompt_loop_3",
+          "raw_id": "raw-00057"
+        }
+      ]
+    },
+    {
+      "id": "shape-0039",
+      "category": "basic_shapes",
+      "category_label": "基础形状",
+      "asset_kind": "native_editable",
+      "preview": "previews/shape-0039.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 72,
+      "source_shape_name": "Parallelogram 71",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 2,
+      "width": 48.96,
+      "height": 27.36,
+      "left": 156.96,
+      "top": 274.32,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#003FAB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "parallelogram",
+        "71",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "000400102604688689e09d11d1100ec00000",
+      "normalized_sha256": "d5c0e1b6f1a2dbfc3cfc825cdaeafa538c13e533172617e3bb956eff056b29b7",
+      "color_signature": [
+        0,
+        60,
+        168,
+        0.27
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 72,
+          "source_shape_name": "Parallelogram 71",
+          "raw_id": "raw-00391"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 155,
+          "source_shape_name": "Parallelogram 154",
+          "raw_id": "raw-00436"
+        }
+      ]
+    }
+  ]
+}

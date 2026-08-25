@@ -1,0 +1,828 @@
+{
+  "category": "arrows",
+  "label": "箭头与流程块",
+  "count": 12,
+  "contact_sheets": [
+    "contact_sheets/contact-001.png"
+  ],
+  "items": [
+    {
+      "id": "arrow-0001",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0001.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 90,
+      "source_shape_name": "stage-arrow-1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 33,
+      "width": 37.5,
+      "height": 21.0,
+      "left": 513.0,
+      "top": 589.5,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#1768B5",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "stage",
+        "arrow",
+        "1",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "00001880421ac59d04d04c5921a804018000",
+      "normalized_sha256": "ae33ee6169cc002de0b23ee3b34afe75121fa03b2ac246273e8ba4cdcba7c361",
+      "color_signature": [
+        24,
+        108,
+        180,
+        0.2
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 90,
+          "source_shape_name": "stage-arrow-1",
+          "raw_id": "raw-00152"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 94,
+          "source_shape_name": "stage-arrow-2",
+          "raw_id": "raw-00154"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0002",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0002.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 65,
+      "source_shape_name": "Right Arrow 64",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 33,
+      "width": 21.6,
+      "height": 14.4,
+      "left": 617.76,
+      "top": 156.24,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0068DB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "right",
+        "arrow",
+        "64",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "010408134632691688690f30430010000000",
+      "normalized_sha256": "501f8be052b95edca5034fc27b9c84c1be667c8e5914406ef8fa831ba61251ba",
+      "color_signature": [
+        0,
+        96,
+        216,
+        0.15
+      ],
+      "occurrences": 4,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 65,
+          "source_shape_name": "Right Arrow 64",
+          "raw_id": "raw-00384"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 66,
+          "source_shape_name": "Right Arrow 65",
+          "raw_id": "raw-00385"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 67,
+          "source_shape_name": "Right Arrow 66",
+          "raw_id": "raw-00386"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 68,
+          "source_shape_name": "Right Arrow 67",
+          "raw_id": "raw-00387"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0003",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0003.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 85,
+      "source_shape_name": "stage-flow-heading-bg",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 52,
+      "width": 165.0,
+      "height": 72.0,
+      "left": 122.25,
+      "top": 565.5,
+      "slide_width": 1200.0,
+      "slide_height": 675.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 3,
+        "fill_color": "#1D70BC",
+        "fill_back_color": "#0C55A0",
+        "gradient_stops": [
+          {
+            "position": 0.0,
+            "color": "#1D70BC"
+          },
+          {
+            "position": 1.0,
+            "color": "#0C55A0"
+          }
+        ],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "stage",
+        "flow",
+        "heading",
+        "bg",
+        "识别2",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "00080020cd52ef177c77cef1d5220c800000",
+      "normalized_sha256": "d1b50880be0bcba9de2e9a4e67acc7a4fe7847b2ce293119252f94f6fa99b732",
+      "color_signature": [
+        24,
+        108,
+        180,
+        0.24
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize2-rebuild\\识别2-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别2-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 85,
+          "source_shape_name": "stage-flow-heading-bg",
+          "raw_id": "raw-00150"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0004",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0004.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 66,
+      "source_shape_name": "stage-chevron-2",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 52,
+      "width": 295.5,
+      "height": 83.25,
+      "left": 351.75,
+      "top": 579.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 3,
+        "fill_color": "#BDD9F3",
+        "fill_back_color": "#78B1E2",
+        "gradient_stops": [
+          {
+            "position": 0.0,
+            "color": "#BDD9F3"
+          },
+          {
+            "position": 1.0,
+            "color": "#78B1E2"
+          }
+        ],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "stage",
+        "chevron",
+        "2",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000408006df9ffcffcdf9006400000000",
+      "normalized_sha256": "d3048cc535870b0f2b5908341e9ff60e6aba3cb72b8a229c12210dbff6a6c047",
+      "color_signature": [
+        168,
+        204,
+        240,
+        0.17
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 66,
+          "source_shape_name": "stage-chevron-2",
+          "raw_id": "raw-00191"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0005",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0005.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+      "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 43,
+      "source_shape_name": "transition_arrow",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 36,
+      "width": 78.75,
+      "height": 26.25,
+      "left": 535.5,
+      "top": 354.0,
+      "slide_width": 1152.0,
+      "slide_height": 768.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#135DD4",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "transition",
+        "arrow",
+        "李佳1",
+        "快速可编辑复刻.pptx"
+      ],
+      "visual_dhash": "00000030048c313b50fc03c3c1c180000000",
+      "normalized_sha256": "3ed18b918aa8b6683e420f5671beb1f1d27bdd11e02e6a56eae0f4bd24f7e330",
+      "color_signature": [
+        24,
+        96,
+        216,
+        0.12
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\李佳1-fast-reverse\\李佳1_快速可编辑复刻.pptx",
+          "source_deck_name": "李佳1_快速可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 43,
+          "source_shape_name": "transition_arrow",
+          "raw_id": "raw-00023"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0006",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0006.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 179,
+      "source_shape_name": "Right Arrow 178",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 33,
+      "width": 23.76,
+      "height": 7.92,
+      "left": 761.76,
+      "top": 457.92,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0068DB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "right",
+        "arrow",
+        "178",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "00000060080e689609e18218208000000000",
+      "normalized_sha256": "9d50a0ba9c600d220177120f1fc2a74c4ddefdeba9f7e3ab9f3eda69d4406692",
+      "color_signature": [
+        0,
+        96,
+        216,
+        0.08
+      ],
+      "occurrences": 3,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 179,
+          "source_shape_name": "Right Arrow 178",
+          "raw_id": "raw-00451"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 182,
+          "source_shape_name": "Right Arrow 181",
+          "raw_id": "raw-00453"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 185,
+          "source_shape_name": "Right Arrow 184",
+          "raw_id": "raw-00455"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0007",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0007.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 85,
+      "source_shape_name": "Right Arrow 84",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 33,
+      "width": 38.88,
+      "height": 25.2,
+      "left": 225.36,
+      "top": 398.88,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0068DB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "right",
+        "arrow",
+        "84",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "000008424032e11e28e10e12030408010000",
+      "normalized_sha256": "c94b62d0ede1a59a8de929c5b79728daddc389fff6f05e1c6c2ea00c37b01261",
+      "color_signature": [
+        0,
+        96,
+        216,
+        0.17
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 85,
+          "source_shape_name": "Right Arrow 84",
+          "raw_id": "raw-00399"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0008",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0008.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 61,
+      "source_shape_name": "stage-chevron-1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 52,
+      "width": 284.25,
+      "height": 83.25,
+      "left": 93.0,
+      "top": 579.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 3,
+        "fill_color": "#DDECF9",
+        "fill_back_color": "#ABCFF0",
+        "gradient_stops": [
+          {
+            "position": 0.0,
+            "color": "#DDECF9"
+          },
+          {
+            "position": 1.0,
+            "color": "#ABCFF0"
+          }
+        ],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "stage",
+        "chevron",
+        "1",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000040006df9ffcffccf9006040000000",
+      "normalized_sha256": "a178279bc36545189c95c093b91d362f212dbaffc7cdb6cf0707c7eb860347bc",
+      "color_signature": [
+        204,
+        228,
+        252,
+        0.17
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 61,
+          "source_shape_name": "stage-chevron-1",
+          "raw_id": "raw-00188"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0009",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0009.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 45,
+      "source_shape_name": "Down Arrow 44",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 36,
+      "width": 16.077,
+      "height": 16.077,
+      "left": 702.775,
+      "top": 194.067,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#9A9A9A",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "down",
+        "arrow",
+        "44",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "00c302b82b82382b82f80751ba25c42c8110",
+      "normalized_sha256": "0741475502a13c17ccbeb9921cb73a7cefdb35609e39f2f20452501ea9c819e9",
+      "color_signature": [
+        156,
+        156,
+        156,
+        0.34
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 45,
+          "source_shape_name": "Down Arrow 44",
+          "raw_id": "raw-00503"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0010",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0010.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 71,
+      "source_shape_name": "stage-chevron-3",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 52,
+      "width": 297.75,
+      "height": 83.25,
+      "left": 621.75,
+      "top": 579.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 3,
+        "fill_color": "#4D9AD9",
+        "fill_back_color": "#2C78BE",
+        "gradient_stops": [
+          {
+            "position": 0.0,
+            "color": "#4D9AD9"
+          },
+          {
+            "position": 1.0,
+            "color": "#2C78BE"
+          }
+        ],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "stage",
+        "chevron",
+        "3",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000c80206df9efcefcde9206820000000",
+      "normalized_sha256": "12ee6782b13a9ef9a371ef9e7d5371afd9bae998fcbd7881e14f2a64d75b591c",
+      "color_signature": [
+        72,
+        144,
+        204,
+        0.17
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 71,
+          "source_shape_name": "stage-chevron-3",
+          "raw_id": "raw-00194"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0011",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0011.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+      "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+      "source_slide": 1,
+      "source_shape_id": 76,
+      "source_shape_name": "stage-chevron-4",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 52,
+      "width": 287.25,
+      "height": 83.25,
+      "left": 891.0,
+      "top": 579.0,
+      "slide_width": 1254.0,
+      "slide_height": 705.75,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 3,
+        "fill_color": "#247BC1",
+        "fill_back_color": "#0B57A2",
+        "gradient_stops": [
+          {
+            "position": 0.0,
+            "color": "#247BC1"
+          },
+          {
+            "position": 1.0,
+            "color": "#0B57A2"
+          }
+        ],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "stage",
+        "chevron",
+        "4",
+        "识别3",
+        "knight可编辑复刻.pptx"
+      ],
+      "visual_dhash": "000000c00206df9efcefcda9206c00000000",
+      "normalized_sha256": "3decad89fef53daceb36753eb352babae25f78f59c779c6906e03eead87136aa",
+      "color_signature": [
+        24,
+        108,
+        180,
+        0.17
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\knight-recognize3-rebuild\\识别3-Knight可编辑复刻.pptx",
+          "source_deck_name": "识别3-Knight可编辑复刻.pptx",
+          "source_slide": 1,
+          "source_shape_id": 76,
+          "source_shape_name": "stage-chevron-4",
+          "raw_id": "raw-00197"
+        }
+      ]
+    },
+    {
+      "id": "arrow-0012",
+      "category": "arrows",
+      "category_label": "箭头与流程块",
+      "asset_kind": "native_editable",
+      "preview": "previews/arrow-0012.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 69,
+      "source_shape_name": "Right Arrow 68",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 33,
+      "width": 21.6,
+      "height": 14.4,
+      "left": 990.0,
+      "top": 156.24,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#0068DB",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "right",
+        "arrow",
+        "68",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "0104481246b26b16896b0f30430010000000",
+      "normalized_sha256": "4a0d584b860a2aaec32cf661bbf31b49efd8894c3337f67c778224405d318c3d",
+      "color_signature": [
+        0,
+        96,
+        216,
+        0.15
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 69,
+          "source_shape_name": "Right Arrow 68",
+          "raw_id": "raw-00388"
+        }
+      ]
+    }
+  ]
+}

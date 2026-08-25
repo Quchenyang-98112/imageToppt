@@ -1,0 +1,434 @@
+{
+  "category": "connectors",
+  "label": "连接器",
+  "count": 6,
+  "contact_sheets": [
+    "contact_sheets/contact-001.png"
+  ],
+  "items": [
+    {
+      "id": "connector-0001",
+      "category": "connectors",
+      "category_label": "连接器",
+      "asset_kind": "native_editable",
+      "preview": "previews/connector-0001.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 195,
+      "source_shape_name": "Connector 194",
+      "source_alt_text": "",
+      "shape_type": 9,
+      "auto_shape_type": -2,
+      "width": 154.8,
+      "height": 0.0,
+      "left": 946.8,
+      "top": 375.12,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#CDE5E0",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "connector",
+        "194",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "000000000000002c00c00002000000000000",
+      "normalized_sha256": "e574480d84fa8462610f675df9a28aad5232ad2277c49ad9e648815c405c51d0",
+      "color_signature": [
+        204,
+        228,
+        216,
+        0.01
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 195,
+          "source_shape_name": "Connector 194",
+          "raw_id": "raw-00460"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 198,
+          "source_shape_name": "Connector 197",
+          "raw_id": "raw-00461"
+        }
+      ]
+    },
+    {
+      "id": "connector-0002",
+      "category": "connectors",
+      "category_label": "连接器",
+      "asset_kind": "native_editable",
+      "preview": "previews/connector-0002.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 57,
+      "source_shape_name": "Connector 56",
+      "source_alt_text": "",
+      "shape_type": 9,
+      "auto_shape_type": -2,
+      "width": 0.0,
+      "height": 45.933,
+      "left": 581.627,
+      "top": 453.589,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#0E9961",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "connector",
+        "56",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "0400c00c00c00c00c00c00c00c00c00c0040",
+      "normalized_sha256": "167363c86398d88f997e38110ce03e5b226fcfe8a204c84ba712a79083d38276",
+      "color_signature": [
+        12,
+        156,
+        96,
+        0.01
+      ],
+      "occurrences": 4,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 57,
+          "source_shape_name": "Connector 56",
+          "raw_id": "raw-00511"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 60,
+          "source_shape_name": "Connector 59",
+          "raw_id": "raw-00513"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 63,
+          "source_shape_name": "Connector 62",
+          "raw_id": "raw-00515"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 66,
+          "source_shape_name": "Connector 65",
+          "raw_id": "raw-00517"
+        }
+      ]
+    },
+    {
+      "id": "connector-0003",
+      "category": "connectors",
+      "category_label": "连接器",
+      "asset_kind": "native_editable",
+      "preview": "previews/connector-0003.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 33,
+      "source_shape_name": "Connector 32",
+      "source_alt_text": "",
+      "shape_type": 9,
+      "auto_shape_type": -2,
+      "width": 382.392,
+      "height": 0.0,
+      "left": 86.124,
+      "top": 174.545,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#BCD3FB",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "connector",
+        "32",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "000000000000000800800000000000000000",
+      "normalized_sha256": "f98e0e6536df842d7e987daf4a8dd98701c2e4fb265622e9a5492d33ec664e2e",
+      "color_signature": [
+        192,
+        216,
+        252,
+        0.01
+      ],
+      "occurrences": 4,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 33,
+          "source_shape_name": "Connector 32",
+          "raw_id": "raw-00494"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 34,
+          "source_shape_name": "Connector 33",
+          "raw_id": "raw-00495"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 35,
+          "source_shape_name": "Connector 34",
+          "raw_id": "raw-00496"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 36,
+          "source_shape_name": "Connector 35",
+          "raw_id": "raw-00497"
+        }
+      ]
+    },
+    {
+      "id": "connector-0004",
+      "category": "connectors",
+      "category_label": "连接器",
+      "asset_kind": "native_editable",
+      "preview": "previews/connector-0004.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+      "source_deck_name": "rebuilt-slide-01.pptx",
+      "source_slide": 1,
+      "source_shape_id": 79,
+      "source_shape_name": "Connector 78",
+      "source_alt_text": "",
+      "shape_type": 9,
+      "auto_shape_type": -2,
+      "width": 205.2,
+      "height": 0.0,
+      "left": 35.28,
+      "top": 387.36,
+      "slide_width": 1141.875,
+      "slide_height": 714.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#D7E6FB",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "connector",
+        "78",
+        "rebuilt",
+        "slide",
+        "01.pptx"
+      ],
+      "visual_dhash": "000000000000000c00c04000000000000000",
+      "normalized_sha256": "db26c49940ddebcf324a1218339b8e8615bd7e7f55f2810c8a089dfba1237236",
+      "color_signature": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "occurrences": 2,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 79,
+          "source_shape_name": "Connector 78",
+          "raw_id": "raw-00395"
+        },
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-01.pptx",
+          "source_deck_name": "rebuilt-slide-01.pptx",
+          "source_slide": 1,
+          "source_shape_id": 82,
+          "source_shape_name": "Connector 81",
+          "raw_id": "raw-00397"
+        }
+      ]
+    },
+    {
+      "id": "connector-0005",
+      "category": "connectors",
+      "category_label": "连接器",
+      "asset_kind": "native_editable",
+      "preview": "previews/connector-0005.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 7,
+      "source_shape_name": "Connector 6",
+      "source_alt_text": "",
+      "shape_type": 9,
+      "auto_shape_type": -2,
+      "width": 24.115,
+      "height": 0.0,
+      "left": 62.01,
+      "top": 124.019,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#0E5BE8",
+        "line_weight": 0.8,
+        "line_dash": 1
+      },
+      "keywords": [
+        "connector",
+        "6",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "000000000800003c04c04203800000000000",
+      "normalized_sha256": "d43bdd41cd82b0413d3d4ca6db05adb23bcd2bcd601ebe4e513e64e2ceeb98a2",
+      "color_signature": [
+        12,
+        96,
+        240,
+        0.02
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 7,
+          "source_shape_name": "Connector 6",
+          "raw_id": "raw-00483"
+        }
+      ]
+    },
+    {
+      "id": "connector-0006",
+      "category": "connectors",
+      "category_label": "连接器",
+      "asset_kind": "native_editable",
+      "preview": "previews/connector-0006.png",
+      "asset_png": null,
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 6,
+      "source_shape_name": "Connector 5",
+      "source_alt_text": "",
+      "shape_type": 9,
+      "auto_shape_type": -2,
+      "width": 0.0,
+      "height": 306.603,
+      "left": 51.675,
+      "top": 124.019,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": true,
+        "line_color": "#0E5BE8",
+        "line_weight": 1.0,
+        "line_dash": 4
+      },
+      "keywords": [
+        "connector",
+        "5",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "040040040040040040040040040040040040",
+      "normalized_sha256": "58d4e3f3d0020908bc4ad75212dec8c8b996ec9c71552a13d2d040071e8ed6f8",
+      "color_signature": [
+        12,
+        96,
+        240,
+        0.0
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 6,
+          "source_shape_name": "Connector 5",
+          "raw_id": "raw-00482"
+        }
+      ]
+    }
+  ]
+}

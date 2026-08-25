@@ -1,0 +1,131 @@
+{
+  "category": "backgrounds",
+  "label": "背景",
+  "count": 2,
+  "contact_sheets": [
+    "contact_sheets/contact-001.png"
+  ],
+  "items": [
+    {
+      "id": "background-0001",
+      "category": "backgrounds",
+      "category_label": "背景",
+      "asset_kind": "native_editable",
+      "preview": "previews/background-0001.png",
+      "asset_png": "assets/png/background-0001.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+      "source_deck_name": "rebuilt-slide-02.pptx",
+      "source_slide": 1,
+      "source_shape_id": 2,
+      "source_shape_name": "Rectangle 1",
+      "source_alt_text": "",
+      "shape_type": 1,
+      "auto_shape_type": 1,
+      "width": 960.0,
+      "height": 540.287,
+      "left": 0.0,
+      "top": 0.0,
+      "slide_width": 960.0,
+      "slide_height": 540.25,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": true,
+        "fill_type": 1,
+        "fill_color": "#FFFFFF",
+        "fill_back_color": "#FFFFFF",
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "rectangle",
+        "1",
+        "rebuilt",
+        "slide",
+        "02.pptx"
+      ],
+      "visual_dhash": "000000000003003003003003003800000000",
+      "normalized_sha256": "2afbc1ac5e99da91433e6d100892b2229f76fcbd7710d2318e22bc618d19819b",
+      "color_signature": [
+        252,
+        252,
+        252,
+        0.39
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\reference\\knight-imagetopptx-skill\\assets\\rebuilt-slide-02.pptx",
+          "source_deck_name": "rebuilt-slide-02.pptx",
+          "source_slide": 1,
+          "source_shape_id": 2,
+          "source_shape_name": "Rectangle 1",
+          "raw_id": "raw-00480"
+        }
+      ]
+    },
+    {
+      "id": "background-0002",
+      "category": "backgrounds",
+      "category_label": "背景",
+      "asset_kind": "picture",
+      "preview": "previews/background-0002.png",
+      "asset_png": "assets/png/background-0002.png",
+      "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\semantic-rebuild-v9\\party-semantic-editable.pptx",
+      "source_deck_name": "party-semantic-editable.pptx",
+      "source_slide": 1,
+      "source_shape_id": 2,
+      "source_shape_name": "Image 0",
+      "source_alt_text": "preencoded.png",
+      "shape_type": 13,
+      "auto_shape_type": 1,
+      "width": 960.0,
+      "height": 540.0,
+      "left": 0.0,
+      "top": 0.0,
+      "slide_width": 960.0,
+      "slide_height": 540.0,
+      "rotation": 0.0,
+      "style": {
+        "fill_visible": false,
+        "fill_type": null,
+        "fill_color": null,
+        "fill_back_color": null,
+        "gradient_stops": [],
+        "line_visible": false,
+        "line_color": null,
+        "line_weight": null,
+        "line_dash": null
+      },
+      "keywords": [
+        "image",
+        "0",
+        "preencoded.png",
+        "party",
+        "semantic",
+        "editable.pptx"
+      ],
+      "visual_dhash": "000200c108debfe4f100b0b3906908040000",
+      "normalized_sha256": "9e9f39f4ab03cc69ca4a02f16d6355c324999a9d245a4bcd15688b4e37938eac",
+      "color_signature": [
+        252,
+        240,
+        228,
+        0.39
+      ],
+      "occurrences": 1,
+      "sources": [
+        {
+          "source_deck": "C:\\Users\\LENOVO\\Documents\\seconddevPPT\\output\\semantic-rebuild-v9\\party-semantic-editable.pptx",
+          "source_deck_name": "party-semantic-editable.pptx",
+          "source_slide": 1,
+          "source_shape_id": 2,
+          "source_shape_name": "Image 0",
+          "raw_id": "raw-00200"
+        }
+      ]
+    }
+  ]
+}

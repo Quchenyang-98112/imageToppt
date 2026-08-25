@@ -1,0 +1,2366 @@
+{
+  "generated_at": "2026-08-22T14:15:07.6576084+08:00",
+  "pages": {
+    "arrows": [
+      {
+        "id": "arrow-0005",
+        "slide": 1,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 43
+      },
+      {
+        "id": "arrow-0003",
+        "slide": 2,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 85
+      },
+      {
+        "id": "arrow-0001",
+        "slide": 3,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 90
+      },
+      {
+        "id": "arrow-0008",
+        "slide": 4,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 61
+      },
+      {
+        "id": "arrow-0004",
+        "slide": 5,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 66
+      },
+      {
+        "id": "arrow-0010",
+        "slide": 6,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 71
+      },
+      {
+        "id": "arrow-0011",
+        "slide": 7,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 76
+      },
+      {
+        "id": "arrow-0002",
+        "slide": 8,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 65
+      },
+      {
+        "id": "arrow-0012",
+        "slide": 9,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 69
+      },
+      {
+        "id": "arrow-0007",
+        "slide": 10,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 85
+      },
+      {
+        "id": "arrow-0006",
+        "slide": 11,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 179
+      },
+      {
+        "id": "arrow-0009",
+        "slide": 12,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 45
+      }
+    ],
+    "backgrounds": [
+      {
+        "id": "background-0002",
+        "slide": 1,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 2
+      },
+      {
+        "id": "background-0001",
+        "slide": 2,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "badge-0049",
+        "slide": 1,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 114
+      },
+      {
+        "id": "badge-0044",
+        "slide": 2,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 2
+      },
+      {
+        "id": "badge-0035",
+        "slide": 3,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 27
+      },
+      {
+        "id": "badge-0027",
+        "slide": 4,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 43
+      },
+      {
+        "id": "badge-0026",
+        "slide": 5,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 46
+      },
+      {
+        "id": "badge-0011",
+        "slide": 6,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 85
+      },
+      {
+        "id": "badge-0015",
+        "slide": 7,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 88
+      },
+      {
+        "id": "badge-0016",
+        "slide": 8,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 2
+      },
+      {
+        "id": "badge-0048",
+        "slide": 9,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 18
+      },
+      {
+        "id": "badge-0033",
+        "slide": 10,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 36
+      },
+      {
+        "id": "badge-0019",
+        "slide": 11,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 84
+      },
+      {
+        "id": "badge-0009",
+        "slide": 12,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 2
+      },
+      {
+        "id": "badge-0028",
+        "slide": 13,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 22
+      },
+      {
+        "id": "badge-0034",
+        "slide": 14,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 44
+      },
+      {
+        "id": "badge-0043",
+        "slide": 15,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 54
+      },
+      {
+        "id": "badge-0014",
+        "slide": 16,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 62
+      },
+      {
+        "id": "badge-0045",
+        "slide": 17,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 72
+      },
+      {
+        "id": "badge-0036",
+        "slide": 18,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 12
+      },
+      {
+        "id": "badge-0021",
+        "slide": 19,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 13
+      },
+      {
+        "id": "badge-0046",
+        "slide": 20,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 19
+      },
+      {
+        "id": "badge-0024",
+        "slide": 21,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 2
+      },
+      {
+        "id": "badge-0038",
+        "slide": 22,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 2
+      },
+      {
+        "id": "badge-0029",
+        "slide": 23,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 5
+      },
+      {
+        "id": "badge-0047",
+        "slide": 24,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 11
+      },
+      {
+        "id": "badge-0025",
+        "slide": 25,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 17
+      },
+      {
+        "id": "badge-0005",
+        "slide": 26,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 23
+      },
+      {
+        "id": "badge-0001",
+        "slide": 27,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 3,
+        "source_shape_id": 5
+      },
+      {
+        "id": "badge-0008",
+        "slide": 28,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 3,
+        "source_shape_id": 7
+      },
+      {
+        "id": "badge-0037",
+        "slide": 29,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 4,
+        "source_shape_id": 2
+      },
+      {
+        "id": "badge-0050",
+        "slide": 30,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 7,
+        "source_shape_id": 5
+      },
+      {
+        "id": "badge-0020",
+        "slide": 31,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 89
+      },
+      {
+        "id": "badge-0032",
+        "slide": 32,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 91
+      },
+      {
+        "id": "badge-0023",
+        "slide": 33,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 93
+      },
+      {
+        "id": "badge-0004",
+        "slide": 34,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 99
+      },
+      {
+        "id": "badge-0007",
+        "slide": 35,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 101
+      },
+      {
+        "id": "badge-0022",
+        "slide": 36,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 103
+      },
+      {
+        "id": "badge-0003",
+        "slide": 37,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 105
+      },
+      {
+        "id": "badge-0017",
+        "slide": 38,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 107
+      },
+      {
+        "id": "badge-0031",
+        "slide": 39,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 109
+      },
+      {
+        "id": "badge-0010",
+        "slide": 40,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 111
+      },
+      {
+        "id": "badge-0039",
+        "slide": 41,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 115
+      },
+      {
+        "id": "badge-0002",
+        "slide": 42,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 119
+      },
+      {
+        "id": "badge-0006",
+        "slide": 43,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 121
+      },
+      {
+        "id": "badge-0040",
+        "slide": 44,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 123
+      },
+      {
+        "id": "badge-0030",
+        "slide": 45,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 125
+      },
+      {
+        "id": "badge-0012",
+        "slide": 46,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 127
+      },
+      {
+        "id": "badge-0041",
+        "slide": 47,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 129
+      },
+      {
+        "id": "badge-0042",
+        "slide": 48,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 131
+      },
+      {
+        "id": "badge-0018",
+        "slide": 49,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 133
+      },
+      {
+        "id": "badge-0013",
+        "slide": 50,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 135
+      }
+    ],
+    "basic_shapes": [
+      {
+        "id": "shape-0011",
+        "slide": 1,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 13
+      },
+      {
+        "id": "shape-0017",
+        "slide": 2,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 3
+      },
+      {
+        "id": "shape-0021",
+        "slide": 3,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 4
+      },
+      {
+        "id": "shape-0013",
+        "slide": 4,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 18
+      },
+      {
+        "id": "shape-0026",
+        "slide": 5,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 19
+      },
+      {
+        "id": "shape-0038",
+        "slide": 6,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 20
+      },
+      {
+        "id": "shape-0001",
+        "slide": 7,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 21
+      },
+      {
+        "id": "shape-0033",
+        "slide": 8,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 22
+      },
+      {
+        "id": "shape-0028",
+        "slide": 9,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 23
+      },
+      {
+        "id": "shape-0009",
+        "slide": 10,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 24
+      },
+      {
+        "id": "shape-0010",
+        "slide": 11,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 25
+      },
+      {
+        "id": "shape-0002",
+        "slide": 12,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 26
+      },
+      {
+        "id": "shape-0035",
+        "slide": 13,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 94
+      },
+      {
+        "id": "shape-0029",
+        "slide": 14,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 95
+      },
+      {
+        "id": "shape-0037",
+        "slide": 15,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 102
+      },
+      {
+        "id": "shape-0032",
+        "slide": 16,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 4
+      },
+      {
+        "id": "shape-0023",
+        "slide": 17,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 5
+      },
+      {
+        "id": "shape-0003",
+        "slide": 18,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 56
+      },
+      {
+        "id": "shape-0006",
+        "slide": 19,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 63
+      },
+      {
+        "id": "shape-0020",
+        "slide": 20,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 15
+      },
+      {
+        "id": "shape-0004",
+        "slide": 21,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 16
+      },
+      {
+        "id": "shape-0031",
+        "slide": 22,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 19
+      },
+      {
+        "id": "shape-0015",
+        "slide": 23,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 3
+      },
+      {
+        "id": "shape-0008",
+        "slide": 24,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 3
+      },
+      {
+        "id": "shape-0005",
+        "slide": 25,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 4,
+        "source_shape_id": 4
+      },
+      {
+        "id": "shape-0034",
+        "slide": 26,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 7
+      },
+      {
+        "id": "shape-0014",
+        "slide": 27,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 29
+      },
+      {
+        "id": "shape-0018",
+        "slide": 28,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 31
+      },
+      {
+        "id": "shape-0007",
+        "slide": 29,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 35
+      },
+      {
+        "id": "shape-0027",
+        "slide": 30,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 59
+      },
+      {
+        "id": "shape-0024",
+        "slide": 31,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 61
+      },
+      {
+        "id": "shape-0039",
+        "slide": 32,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 72
+      },
+      {
+        "id": "shape-0022",
+        "slide": 33,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 191
+      },
+      {
+        "id": "shape-0012",
+        "slide": 34,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 203
+      },
+      {
+        "id": "shape-0019",
+        "slide": 35,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 208
+      },
+      {
+        "id": "shape-0030",
+        "slide": 36,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 227
+      },
+      {
+        "id": "shape-0025",
+        "slide": 37,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 8
+      },
+      {
+        "id": "shape-0016",
+        "slide": 38,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 13
+      },
+      {
+        "id": "shape-0036",
+        "slide": 39,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 18
+      }
+    ],
+    "cards": [
+      {
+        "id": "card-0086",
+        "slide": 1,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 6
+      },
+      {
+        "id": "card-0034",
+        "slide": 2,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 10
+      },
+      {
+        "id": "card-0018",
+        "slide": 3,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 15
+      },
+      {
+        "id": "card-0083",
+        "slide": 4,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 34
+      },
+      {
+        "id": "card-0102",
+        "slide": 5,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 44
+      },
+      {
+        "id": "card-0025",
+        "slide": 6,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 48
+      },
+      {
+        "id": "card-0093",
+        "slide": 7,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 49
+      },
+      {
+        "id": "card-0045",
+        "slide": 8,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 51
+      },
+      {
+        "id": "card-0042",
+        "slide": 9,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 93
+      },
+      {
+        "id": "card-0038",
+        "slide": 10,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 96
+      },
+      {
+        "id": "card-0051",
+        "slide": 11,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 107
+      },
+      {
+        "id": "card-0020",
+        "slide": 12,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 9
+      },
+      {
+        "id": "card-0099",
+        "slide": 13,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 10
+      },
+      {
+        "id": "card-0063",
+        "slide": 14,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 30
+      },
+      {
+        "id": "card-0015",
+        "slide": 15,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 39
+      },
+      {
+        "id": "card-0041",
+        "slide": 16,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 42
+      },
+      {
+        "id": "card-0092",
+        "slide": 17,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 53
+      },
+      {
+        "id": "card-0039",
+        "slide": 18,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 54
+      },
+      {
+        "id": "card-0053",
+        "slide": 19,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 55
+      },
+      {
+        "id": "card-0088",
+        "slide": 20,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 56
+      },
+      {
+        "id": "card-0094",
+        "slide": 21,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 61
+      },
+      {
+        "id": "card-0030",
+        "slide": 22,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 72
+      },
+      {
+        "id": "card-0064",
+        "slide": 23,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 84
+      },
+      {
+        "id": "card-0065",
+        "slide": 24,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 122
+      },
+      {
+        "id": "card-0023",
+        "slide": 25,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 11
+      },
+      {
+        "id": "card-0046",
+        "slide": 26,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 14
+      },
+      {
+        "id": "card-0087",
+        "slide": 27,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 16
+      },
+      {
+        "id": "card-0115",
+        "slide": 28,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 17
+      },
+      {
+        "id": "card-0008",
+        "slide": 29,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 25
+      },
+      {
+        "id": "card-0068",
+        "slide": 30,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 35
+      },
+      {
+        "id": "card-0071",
+        "slide": 31,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 81
+      },
+      {
+        "id": "card-0021",
+        "slide": 32,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 10
+      },
+      {
+        "id": "card-0120",
+        "slide": 33,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 43
+      },
+      {
+        "id": "card-0073",
+        "slide": 34,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 53
+      },
+      {
+        "id": "card-0095",
+        "slide": 35,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 9
+      },
+      {
+        "id": "card-0117",
+        "slide": 36,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 10
+      },
+      {
+        "id": "card-0112",
+        "slide": 37,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 11
+      },
+      {
+        "id": "card-0109",
+        "slide": 38,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 17
+      },
+      {
+        "id": "card-0035",
+        "slide": 39,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 20
+      },
+      {
+        "id": "card-0004",
+        "slide": 40,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 26
+      },
+      {
+        "id": "card-0022",
+        "slide": 41,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 29
+      },
+      {
+        "id": "card-0002",
+        "slide": 42,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 4
+      },
+      {
+        "id": "card-0052",
+        "slide": 43,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 5
+      },
+      {
+        "id": "card-0050",
+        "slide": 44,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 6
+      },
+      {
+        "id": "card-0059",
+        "slide": 45,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 7
+      },
+      {
+        "id": "card-0057",
+        "slide": 46,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 11
+      },
+      {
+        "id": "card-0029",
+        "slide": 47,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 12
+      },
+      {
+        "id": "card-0016",
+        "slide": 48,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 17
+      },
+      {
+        "id": "card-0084",
+        "slide": 49,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 18
+      },
+      {
+        "id": "card-0001",
+        "slide": 50,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 4
+      },
+      {
+        "id": "card-0091",
+        "slide": 51,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 6
+      },
+      {
+        "id": "card-0113",
+        "slide": 52,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 9
+      },
+      {
+        "id": "card-0032",
+        "slide": 53,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 10
+      },
+      {
+        "id": "card-0118",
+        "slide": 54,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 12
+      },
+      {
+        "id": "card-0036",
+        "slide": 55,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 15
+      },
+      {
+        "id": "card-0100",
+        "slide": 56,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 16
+      },
+      {
+        "id": "card-0061",
+        "slide": 57,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 18
+      },
+      {
+        "id": "card-0097",
+        "slide": 58,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 21
+      },
+      {
+        "id": "card-0055",
+        "slide": 59,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 22
+      },
+      {
+        "id": "card-0054",
+        "slide": 60,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 24
+      },
+      {
+        "id": "card-0013",
+        "slide": 61,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 27
+      },
+      {
+        "id": "card-0105",
+        "slide": 62,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 28
+      },
+      {
+        "id": "card-0007",
+        "slide": 63,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 29
+      },
+      {
+        "id": "card-0062",
+        "slide": 64,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 3,
+        "source_shape_id": 6
+      },
+      {
+        "id": "card-0090",
+        "slide": 65,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 3,
+        "source_shape_id": 13
+      },
+      {
+        "id": "card-0066",
+        "slide": 66,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 3,
+        "source_shape_id": 14
+      },
+      {
+        "id": "card-0014",
+        "slide": 67,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 3,
+        "source_shape_id": 19
+      },
+      {
+        "id": "card-0031",
+        "slide": 68,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 4,
+        "source_shape_id": 3
+      },
+      {
+        "id": "card-0101",
+        "slide": 69,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 4,
+        "source_shape_id": 5
+      },
+      {
+        "id": "card-0098",
+        "slide": 70,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 4,
+        "source_shape_id": 6
+      },
+      {
+        "id": "card-0069",
+        "slide": 71,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 4,
+        "source_shape_id": 9
+      },
+      {
+        "id": "card-0078",
+        "slide": 72,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 5,
+        "source_shape_id": 4
+      },
+      {
+        "id": "card-0079",
+        "slide": 73,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 5,
+        "source_shape_id": 6
+      },
+      {
+        "id": "card-0049",
+        "slide": 74,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 5,
+        "source_shape_id": 12
+      },
+      {
+        "id": "card-0085",
+        "slide": 75,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 6,
+        "source_shape_id": 4
+      },
+      {
+        "id": "card-0024",
+        "slide": 76,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 6,
+        "source_shape_id": 5
+      },
+      {
+        "id": "card-0047",
+        "slide": 77,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 6,
+        "source_shape_id": 8
+      },
+      {
+        "id": "card-0106",
+        "slide": 78,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 6,
+        "source_shape_id": 10
+      },
+      {
+        "id": "card-0037",
+        "slide": 79,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 7,
+        "source_shape_id": 2
+      },
+      {
+        "id": "card-0058",
+        "slide": 80,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 7,
+        "source_shape_id": 3
+      },
+      {
+        "id": "card-0104",
+        "slide": 81,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 7,
+        "source_shape_id": 4
+      },
+      {
+        "id": "card-0080",
+        "slide": 82,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 7,
+        "source_shape_id": 16
+      },
+      {
+        "id": "card-0019",
+        "slide": 83,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 7,
+        "source_shape_id": 60
+      },
+      {
+        "id": "card-0012",
+        "slide": 84,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 5
+      },
+      {
+        "id": "card-0060",
+        "slide": 85,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 6
+      },
+      {
+        "id": "card-0116",
+        "slide": 86,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 9
+      },
+      {
+        "id": "card-0026",
+        "slide": 87,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 25
+      },
+      {
+        "id": "card-0056",
+        "slide": 88,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 70
+      },
+      {
+        "id": "card-0108",
+        "slide": 89,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 71
+      },
+      {
+        "id": "card-0011",
+        "slide": 90,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 74
+      },
+      {
+        "id": "card-0111",
+        "slide": 91,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 75
+      },
+      {
+        "id": "card-0089",
+        "slide": 92,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 86
+      },
+      {
+        "id": "card-0048",
+        "slide": 93,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 87
+      },
+      {
+        "id": "card-0119",
+        "slide": 94,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 95
+      },
+      {
+        "id": "card-0082",
+        "slide": 95,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 97
+      },
+      {
+        "id": "card-0075",
+        "slide": 96,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 153
+      },
+      {
+        "id": "card-0005",
+        "slide": 97,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 154
+      },
+      {
+        "id": "card-0010",
+        "slide": 98,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 157
+      },
+      {
+        "id": "card-0076",
+        "slide": 99,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 160
+      },
+      {
+        "id": "card-0027",
+        "slide": 100,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 169
+      },
+      {
+        "id": "card-0044",
+        "slide": 101,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 171
+      },
+      {
+        "id": "card-0077",
+        "slide": 102,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 174
+      },
+      {
+        "id": "card-0110",
+        "slide": 103,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 188
+      },
+      {
+        "id": "card-0033",
+        "slide": 104,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 189
+      },
+      {
+        "id": "card-0006",
+        "slide": 105,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 202
+      },
+      {
+        "id": "card-0067",
+        "slide": 106,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 206
+      },
+      {
+        "id": "card-0074",
+        "slide": 107,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 207
+      },
+      {
+        "id": "card-0072",
+        "slide": 108,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 210
+      },
+      {
+        "id": "card-0107",
+        "slide": 109,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 214
+      },
+      {
+        "id": "card-0017",
+        "slide": 110,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 218
+      },
+      {
+        "id": "card-0096",
+        "slide": 111,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 222
+      },
+      {
+        "id": "card-0028",
+        "slide": 112,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 226
+      },
+      {
+        "id": "card-0114",
+        "slide": 113,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 231
+      },
+      {
+        "id": "card-0003",
+        "slide": 114,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 5
+      },
+      {
+        "id": "card-0121",
+        "slide": 115,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 37
+      },
+      {
+        "id": "card-0070",
+        "slide": 116,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 40
+      },
+      {
+        "id": "card-0043",
+        "slide": 117,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 43
+      },
+      {
+        "id": "card-0009",
+        "slide": 118,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 46
+      },
+      {
+        "id": "card-0081",
+        "slide": 119,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 49
+      },
+      {
+        "id": "card-0103",
+        "slide": 120,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 51
+      },
+      {
+        "id": "card-0040",
+        "slide": 121,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 54
+      }
+    ],
+    "connectors": [
+      {
+        "id": "connector-0004",
+        "slide": 1,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 79
+      },
+      {
+        "id": "connector-0001",
+        "slide": 2,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 195
+      },
+      {
+        "id": "connector-0006",
+        "slide": 3,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 6
+      },
+      {
+        "id": "connector-0005",
+        "slide": 4,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 7
+      },
+      {
+        "id": "connector-0003",
+        "slide": 5,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 33
+      },
+      {
+        "id": "connector-0002",
+        "slide": 6,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 57
+      }
+    ],
+    "decorative_shapes": [
+      {
+        "id": "decor-shape-0001",
+        "slide": 1,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 58
+      },
+      {
+        "id": "decor-shape-0002",
+        "slide": 2,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 59
+      },
+      {
+        "id": "decor-shape-0003",
+        "slide": 3,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 13
+      }
+    ],
+    "decorative_visuals": [
+      {
+        "id": "decor-visual-0001",
+        "slide": 1,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 89
+      },
+      {
+        "id": "decor-visual-0002",
+        "slide": 2,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 2
+      }
+    ],
+    "icons": [
+      {
+        "id": "icon-0013",
+        "slide": 1,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 120
+      },
+      {
+        "id": "icon-0047",
+        "slide": 2,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 124
+      },
+      {
+        "id": "icon-0032",
+        "slide": 3,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 132
+      },
+      {
+        "id": "icon-0068",
+        "slide": 4,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 140
+      },
+      {
+        "id": "icon-0023",
+        "slide": 5,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 210
+      },
+      {
+        "id": "icon-0054",
+        "slide": 6,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 221
+      },
+      {
+        "id": "icon-0010",
+        "slide": 7,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 109
+      },
+      {
+        "id": "icon-0007",
+        "slide": 8,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 119
+      },
+      {
+        "id": "icon-0055",
+        "slide": 9,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 128
+      },
+      {
+        "id": "icon-0030",
+        "slide": 10,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 184
+      },
+      {
+        "id": "icon-0009",
+        "slide": 11,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 188
+      },
+      {
+        "id": "icon-0056",
+        "slide": 12,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 192
+      },
+      {
+        "id": "icon-0002",
+        "slide": 13,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 94
+      },
+      {
+        "id": "icon-0025",
+        "slide": 14,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 103
+      },
+      {
+        "id": "icon-0031",
+        "slide": 15,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 111
+      },
+      {
+        "id": "icon-0028",
+        "slide": 16,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 119
+      },
+      {
+        "id": "icon-0064",
+        "slide": 17,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 146
+      },
+      {
+        "id": "icon-0029",
+        "slide": 18,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 151
+      },
+      {
+        "id": "icon-0053",
+        "slide": 19,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 156
+      },
+      {
+        "id": "icon-0001",
+        "slide": 20,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 161
+      },
+      {
+        "id": "icon-0021",
+        "slide": 21,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 30
+      },
+      {
+        "id": "icon-0019",
+        "slide": 22,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 31
+      },
+      {
+        "id": "icon-0042",
+        "slide": 23,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 32
+      },
+      {
+        "id": "icon-0014",
+        "slide": 24,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 33
+      },
+      {
+        "id": "icon-0037",
+        "slide": 25,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 34
+      },
+      {
+        "id": "icon-0017",
+        "slide": 26,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 35
+      },
+      {
+        "id": "icon-0060",
+        "slide": 27,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 10
+      },
+      {
+        "id": "icon-0036",
+        "slide": 28,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 14
+      },
+      {
+        "id": "icon-0044",
+        "slide": 29,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 18
+      },
+      {
+        "id": "icon-0046",
+        "slide": 30,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 22
+      },
+      {
+        "id": "icon-0034",
+        "slide": 31,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 30
+      },
+      {
+        "id": "icon-0038",
+        "slide": 32,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 36
+      },
+      {
+        "id": "icon-0012",
+        "slide": 33,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 42
+      },
+      {
+        "id": "icon-0067",
+        "slide": 34,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 48
+      },
+      {
+        "id": "icon-0033",
+        "slide": 35,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 54
+      },
+      {
+        "id": "icon-0043",
+        "slide": 36,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 60
+      },
+      {
+        "id": "icon-0016",
+        "slide": 37,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 77
+      },
+      {
+        "id": "icon-0059",
+        "slide": 38,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 80
+      },
+      {
+        "id": "icon-0035",
+        "slide": 39,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 158
+      },
+      {
+        "id": "icon-0006",
+        "slide": 40,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 161
+      },
+      {
+        "id": "icon-0041",
+        "slide": 41,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 164
+      },
+      {
+        "id": "icon-0066",
+        "slide": 42,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 167
+      },
+      {
+        "id": "icon-0063",
+        "slide": 43,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 173
+      },
+      {
+        "id": "icon-0027",
+        "slide": 44,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 175
+      },
+      {
+        "id": "icon-0061",
+        "slide": 45,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 177
+      },
+      {
+        "id": "icon-0052",
+        "slide": 46,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 180
+      },
+      {
+        "id": "icon-0020",
+        "slide": 47,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 183
+      },
+      {
+        "id": "icon-0058",
+        "slide": 48,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 186
+      },
+      {
+        "id": "icon-0004",
+        "slide": 49,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 211
+      },
+      {
+        "id": "icon-0065",
+        "slide": 50,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 215
+      },
+      {
+        "id": "icon-0062",
+        "slide": 51,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 219
+      },
+      {
+        "id": "icon-0049",
+        "slide": 52,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 223
+      },
+      {
+        "id": "icon-0008",
+        "slide": 53,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 228
+      },
+      {
+        "id": "icon-0051",
+        "slide": 54,
+        "source_deck": "rebuilt-slide-01.pptx",
+        "source_slide": 1,
+        "source_shape_id": 232
+      },
+      {
+        "id": "icon-0048",
+        "slide": 55,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 10
+      },
+      {
+        "id": "icon-0039",
+        "slide": 56,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 15
+      },
+      {
+        "id": "icon-0015",
+        "slide": 57,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 20
+      },
+      {
+        "id": "icon-0018",
+        "slide": 58,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 25
+      },
+      {
+        "id": "icon-0050",
+        "slide": 59,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 30
+      },
+      {
+        "id": "icon-0026",
+        "slide": 60,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 38
+      },
+      {
+        "id": "icon-0045",
+        "slide": 61,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 41
+      },
+      {
+        "id": "icon-0011",
+        "slide": 62,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 47
+      },
+      {
+        "id": "icon-0005",
+        "slide": 63,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 52
+      },
+      {
+        "id": "icon-0003",
+        "slide": 64,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 55
+      },
+      {
+        "id": "icon-0022",
+        "slide": 65,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 58
+      },
+      {
+        "id": "icon-0024",
+        "slide": 66,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 61
+      },
+      {
+        "id": "icon-0057",
+        "slide": 67,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 64
+      },
+      {
+        "id": "icon-0040",
+        "slide": 68,
+        "source_deck": "rebuilt-slide-02.pptx",
+        "source_slide": 1,
+        "source_shape_id": 67
+      }
+    ],
+    "lines": [
+      {
+        "id": "line-0019",
+        "slide": 1,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 5
+      },
+      {
+        "id": "line-0020",
+        "slide": 2,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 58
+      },
+      {
+        "id": "line-0002",
+        "slide": 3,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 63
+      },
+      {
+        "id": "line-0023",
+        "slide": 4,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 96
+      },
+      {
+        "id": "line-0014",
+        "slide": 5,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 97
+      },
+      {
+        "id": "line-0005",
+        "slide": 6,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 99
+      },
+      {
+        "id": "line-0022",
+        "slide": 7,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 100
+      },
+      {
+        "id": "line-0013",
+        "slide": 8,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 101
+      },
+      {
+        "id": "line-0006",
+        "slide": 9,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 125
+      },
+      {
+        "id": "line-0012",
+        "slide": 10,
+        "source_deck": "李佳3_视觉OCR快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 128
+      },
+      {
+        "id": "line-0009",
+        "slide": 11,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 3
+      },
+      {
+        "id": "line-0027",
+        "slide": 12,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 10
+      },
+      {
+        "id": "line-0008",
+        "slide": 13,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 21
+      },
+      {
+        "id": "line-0015",
+        "slide": 14,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 39
+      },
+      {
+        "id": "line-0001",
+        "slide": 15,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 41
+      },
+      {
+        "id": "line-0024",
+        "slide": 16,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 55
+      },
+      {
+        "id": "line-0025",
+        "slide": 17,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 98
+      },
+      {
+        "id": "line-0010",
+        "slide": 18,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 3
+      },
+      {
+        "id": "line-0003",
+        "slide": 19,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 9
+      },
+      {
+        "id": "line-0016",
+        "slide": 20,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 21
+      },
+      {
+        "id": "line-0021",
+        "slide": 21,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 26
+      },
+      {
+        "id": "line-0017",
+        "slide": 22,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 46
+      },
+      {
+        "id": "line-0004",
+        "slide": 23,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 84
+      },
+      {
+        "id": "line-0018",
+        "slide": 24,
+        "source_deck": "party-semantic-editable.pptx",
+        "source_slide": 1,
+        "source_shape_id": 3
+      },
+      {
+        "id": "line-0026",
+        "slide": 25,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 2,
+        "source_shape_id": 102
+      },
+      {
+        "id": "line-0007",
+        "slide": 26,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 4,
+        "source_shape_id": 49
+      },
+      {
+        "id": "line-0011",
+        "slide": 27,
+        "source_deck": "七页原图批量可编辑复刻.pptx",
+        "source_slide": 5,
+        "source_shape_id": 7
+      }
+    ],
+    "logos": [
+      {
+        "id": "logo-0001",
+        "slide": 1,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 117
+      },
+      {
+        "id": "logo-0004",
+        "slide": 2,
+        "source_deck": "李佳1_快速可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 148
+      },
+      {
+        "id": "logo-0003",
+        "slide": 3,
+        "source_deck": "识别2-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 104
+      },
+      {
+        "id": "logo-0002",
+        "slide": 4,
+        "source_deck": "识别3-Knight可编辑复刻.pptx",
+        "source_slide": 1,
+        "source_shape_id": 87
+      }
+    ]
+  },
+  "errors": []
+}

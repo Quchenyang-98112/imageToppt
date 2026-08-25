@@ -1,0 +1,234 @@
+{
+  "schema": "qwen-global-reconstruction-policy/v3",
+  "policy_revision": "v4.1-background-first-vector-gated",
+  "mode": "qwen_only_parallel_workbench",
+  "global_scope": "Mandatory for every original-image-to-editable-PPTX job in this project.",
+  "models": {
+    "ocr": "qwen3.5-ocr",
+    "vision": "qwen3-vl-plus",
+    "image_generation": "qwen-image-2.0-pro"
+  },
+  "workbench": {
+    "coordinate_space": "source_pixels",
+    "source_reference_normalization": { "width": 1600, "height": 900, "mode": "contain_with_letterbox", "immutable_after_creation": true },
+    "canvases": ["SOURCE_REFERENCE", "BASE_BG", "FIXED_DECOR", "BG_CLEAN", "OCR_LAYER", "NONTEXT_LAYER", "COMPOSITE", "DIFF_HEATMAP"],
+    "visible_slide_layers": ["BASE_BG", "FIXED_DECOR", "DECORATIVE_MOVABLE", "NATIVE_NON_TEXT", "LIBRARY_OR_QWEN_ASSETS", "OCR_TEXT"],
+    "source_reference_storage": "hidden_reference_slide_or_audit_resource",
+    "forbid_visible_full_source_reference": true,
+    "concurrency": "OCR inventory and non-text inventory run concurrently; background cleaning begins only after both inventories and masks are complete."
+  },
+  "coordinate_contract": {
+    "canonical_bbox": "[x,y,w,h] source pixels",
+    "source_definition": "pixels of the immutable 1600x900 SOURCE_REFERENCE produced by deterministic contain-with-letterbox normalization; the original file and transform are retained for audit",
+    "allowed_raw_vlm_contract": "normalized_1000 + xyxy only when explicitly declared and deterministically converted",
+    "mixed_aspect_mode": "contain_with_letterbox",
+    "reject_implicit_conversion": true,
+    "required_fields": ["sourceBBox", "zIndex", "placementConfidence", "parentId"],
+    "repair_bbox_protocol": {
+      "vision_output_must_include": ["coordinateMode", "sourceBBox", "localCropReference"],
+      "supported_coordinate_modes": ["xywh_1600", "xyxy_1600", "normalized_1000_xyxy"],
+      "reject_when_undeclared_or_unroundtrippable": true,
+      "normalization_target": "[x,y,w,h] source pixels"
+    },
+    "qwen_vl_repair_default_raw_mode": "normalized_1000_xyxy"
+  },
+  "nontext_discovery_policy": {
+    "mode": "candidate_grounded_local_verification",
+    "forbid": ["whole_slide_free_form_inventory_as_final", "vlm_self_reported_recall_as_gate", "numeric_text_as_chart_asset"],
+    "detector": {
+      "runs_before_vlm": true,
+      "inputs": ["source_pixels", "ocr_exclusion_mask", "color_regions", "edge_regions", "connected_components"],
+      "candidate_order": "top_to_bottom_then_left_to_right",
+      "minimum_bbox_px": 18,
+      "maximum_candidates_per_slide": 48,
+      "dedupe_iou": 0.72,
+      "merge_adjacent_gap_px": 8,
+      "retain_large_hosts": true,
+      "retain_small_icon_candidates": true
+    },
+    "local_vlm": {
+      "provider": "dashscope-native-multimodal",
+      "model": "qwen3-vl-plus",
+      "input": "one candidate crop plus local OCR exclusions and optional gallery Top-K sheet",
+      "required_output": ["candidateId", "isNontext", "classification", "semantic", "sourceBBox", "confidence", "structuralVetoes"],
+      "classification": ["native_editable", "library_asset", "qwen_image_asset", "decorative_fixed", "decorative_movable", "reject_ocr_or_noise"],
+      "local_crop_padding_px": 12,
+      "minimum_accept_confidence": 0.80,
+      "text_host_rule": "OCR glyphs are text-only, but any visible container, pill, badge, card, panel, border, divider or arrow hosting them must be retained as non-text geometry. A candidate is rejected only if it has no such geometry.",
+      "candidate_outline_required": true,
+      "candidate_outline_is_not_source_content": true,
+      "asset_text_overlap_rule": "A library/Qwen image asset may not contain readable OCR. If a visual candidate overlaps OCR, classify its nonsemantic backdrop as decorative_fixed/movable or split it before asset generation; only native hosts may enclose OCR.",
+      "required_second_review_for": ["confidence_below_0.90", "large_host", "complex_visual", "logo", "icon_group", "gallery_match_below_direct_similarity"]
+    },
+    "verification": {
+      "candidate_coverage_required": 0.95,
+      "unverified_candidate_blocks_fusion": true,
+      "numeric_ocr_overlap_max": 0.15,
+      "local_render_iou_required": 0.85,
+      "major_element_count_is_not_a_quality_score": true
+    }
+  },
+  "classification": {
+    "foreground": ["ocr_text", "native_editable", "library_asset", "library_native", "library_svg", "exact_brand_asset", "library_png", "qwen_image_asset", "decorative_movable"],
+    "background": ["base_color", "base_gradient", "base_texture", "decorative_fixed"],
+    "decorative_fixed_rule": "Removal does not change data, meaning, navigation or branding; normally large, low-opacity and spanning multiple content regions.",
+    "decorative_movable_rule": "Pure decoration that may reasonably be moved or deleted as one independent transparent asset.",
+    "forbidden_as_decoration": ["kpi_card", "semantic_icon", "chart", "table", "flow_arrow", "connector", "content_container", "section_label", "exact_brand_logo"],
+    "default_when_uncertain": "foreground_nontext"
+  },
+  "background_policy": {
+    "mode": "background_first_clean_from_union_foreground_mask",
+    "remove": ["all_ocr_glyphs", "semantic_nontext", "native_objects", "movable_decorations", "foreground_shadows", "anti_alias_halos"],
+    "preserve": ["unmasked_source_pixels", "base_background"],
+    "fixed_decoration_handling": "approved_decorative_fixed_is_removed_from_BASE_BG_and_emitted_as_separate_FIXED_DECOR_overlay",
+    "unresolved_region_export": "forbidden",
+    "fusion_prerequisite": "BASE_BG_and_FIXED_DECOR_must_pass_independent_background_audit_before_any_OCR_or_NONTEXT_fusion",
+    "mask_expansion": { "formula": "clamp(element_height*0.08,2,8)", "min_px": 2, "max_px": 8 },
+    "mask_zones": ["core", "edge_and_shadow", "sampling_ring"],
+    "repair_order": ["solid_color", "gradient_fit", "geometric_continuation", "patch_inpaint", "qwen_masked_local_edit"],
+    "whole_slide_regeneration_forbidden": true,
+    "source_pixels_outside_mask_must_remain_unchanged": true,
+    "full_source_image_on_visible_slide_forbidden": true
+  },
+  "decoration_policy": {
+    "fixed": "extract as separate FIXED_DECOR first; merge into BG_CLEAN only after BASE_BG audit, or place on slide master/layout so it is not selectable in normal editing",
+    "movable": "one independently movable transparent SVG/PNG asset; internal path editability is not required",
+    "visual_completeness_min": 0.95,
+    "semantic_impact_must_be_false": true
+  },
+  "gallery_policy": {
+    "query_crop_final_use_forbidden": true,
+    "candidate_top_k": 5,
+    "normalization": ["remove_host_background", "trim_padding", "normalize_scale", "preserve_direction", "separate_color_from_structure"],
+    "weights": { "semantic": 0.20, "silhouette": 0.25, "structure": 0.25, "direction_opening": 0.10, "aspect": 0.08, "style": 0.07, "color": 0.05 },
+    "structural_vetoes": ["wrong_arrow_direction", "wrong_pie_opening", "wrong_bar_count", "wrong_head_orientation", "wrong_internal_structure", "wrong_logo_mark_or_text"],
+    "direct_similarity": 0.95,
+    "render_rerank_floor": 0.88,
+    "below_floor": "qwen_image_asset",
+    "post_insert_local_render_review_required": true,
+    "executor_by_asset_kind": {
+      "native_editable": "instantiate_parameterized_powerpoint_component_or_copy_shape_xml",
+      "svg": "insert_vector_asset",
+      "png": "insert_independently_movable_transparent_asset",
+      "qwen_image": "insert_reviewed_transparent_asset_and_stage_for_gallery"
+    },
+    "preview_png_is_retrieval_only": true
+  },
+  "complex_asset_format_policy": {
+    "preferred_format": "real_vector_svg",
+    "eligible_assets": ["qwen_image_asset", "library_svg", "complex_icon", "flat_pictogram"],
+    "svg_requirements": ["contains_real_vector_paths_or_geometry", "preserves_transparency", "has_no_embedded_raster_image", "passes_local_render_review"],
+    "creation_method": "trace_or_vectorize_only_a_reviewed_Qwen-generated_or_library-owned_asset; never trace source-image crops",
+    "fallback_format": "independently_movable_transparent_png",
+    "fallback_when": ["vectorization_complexity_limit", "loss_of_silhouette_or_structure", "SVG_render_difference_exceeds_local_threshold"],
+    "ppt_insertion": "insert SVG when its vector validation and local render review pass; otherwise insert the reviewed PNG"
+  },
+  "generated_asset_preflight": {
+    "required_before_candidate_insertion": true,
+    "reference": "source local crop plus declared semantic and target box",
+    "minimum_score": 0.88,
+    "hard_reject": ["wrong_palette", "wrong_silhouette", "wrong_structure", "visible_text", "photo_or_scene_instead_of_flat_visual", "unsafe_padding_or_grid_fragment"],
+    "rejected_asset_action": "keep it out of candidate PPTX; retry Qwen Image with a revised single-asset prompt or choose another gallery asset"
+  },
+  "quality_gates": {
+    "text_min_score": 0.90,
+    "text_content_min_accuracy": 0.995,
+    "critical_text_accuracy": 1.0,
+    "text_bbox_min_iou": 0.90,
+    "text_style_max_relative_error": 0.07,
+    "text_color_max_delta_e": 6.0,
+    "text_visible_object_coverage": 1.0,
+    "nontext_min_score": 0.80,
+    "nontext_major_recall": 0.95,
+    "nontext_all_recall": 0.90,
+    "nontext_bbox_min_iou": 0.85,
+    "nontext_size_max_relative_error": 0.05,
+    "nontext_aspect_max_relative_error": 0.03,
+    "decoration_visual_completeness": 0.95,
+    "background_min_score": 0.98,
+    "background_outside_mask_pixel_identity": 0.995,
+    "background_outside_mask_ssim": 0.995,
+    "background_outside_mask_max_delta_e": 2.0,
+    "background_ocr_rescan_max_lines": 0,
+    "background_text_edge_residual_max": 0.005,
+    "background_nontext_edge_residual_max": 0.01,
+    "background_shadow_residual_max": 0.02,
+    "editability_move_origin_max_difference": 0.01,
+    "fusion_min_score": 0.85
+  },
+  "quality_weights": {
+    "text": { "content": 0.30, "bbox": 0.25, "typography": 0.20, "font_mapping": 0.10, "color": 0.10, "alignment_wrap": 0.05 },
+    "nontext": { "recall": 0.30, "geometry": 0.25, "structure": 0.15, "silhouette": 0.15, "color_style": 0.10, "layering": 0.05 }
+  },
+  "qa_views": ["background_only", "ocr_on_neutral", "nontext_on_neutral", "composite", "difference_heatmap", "move_test", "delete_test"],
+  "repair_order": ["missing_elements", "wrong_classification_or_match", "geometry_and_scale", "color_and_style", "layering_and_occlusion", "text_nontext_fusion"],
+  "repair_loop": {
+    "review_rounds_per_stage": 6,
+    "round_limit_is_not_a_pass_condition": true,
+    "escalation": {
+      "gallery_failure": "qwen_image_or_native_svg_reconstruction",
+      "geometry_failure": "local_pixel_edge_refinement",
+      "background_failure": "expand_mask_then_upgrade_repair_method",
+      "text_failure": "split_runs_and_repeat_ocr_style_review"
+    },
+    "scan_order": "top_to_bottom_then_left_to_right_within_visual_bands; preserve parent-child and z-order",
+    "dirty_region_rendering": true,
+    "candidate_repair_acceptance": {
+      "mode": "candidate_only_before_final_fusion",
+      "required_evidence": ["baseline_render", "candidate_render", "same_crop_source_vs_baseline_review", "same_crop_source_vs_candidate_review", "no_new_occlusion_review", "coordinate_contract_validation"],
+      "minimum_regional_score_improvement": 0.02,
+      "no_new_text_overlap": true,
+      "no_new_nontext_occlusion": true,
+      "acceptance_record_required": true,
+      "failed_candidate_action": "discard_candidate_and_keep_prior_passing_layer"
+    },
+    "repair_action_contract": {
+      "required_fields": ["operation", "sourceBBox", "localCropReference", "placementConfidence", "parentId", "zIndex"],
+      "allowed_operations": ["replace_existing_native", "add_missing_native", "add_missing_asset", "add_fixed_decoration"],
+      "existing_component_rule": "A wrong existing native component must be replaced, never covered by a second overlay. A missing child primitive is a separate add_missing_native action.",
+      "compound_component_rule": "For a visible parent-plus-child component, enumerate every visible primitive (for example: bar and its white dash) as related actions; one generic enclosing rectangle is not an acceptable substitute."
+    }
+  },
+  "module_responsibilities": {
+    "ocr_route": "authoritative text content, source-pixel boxes, typography and independent text QA",
+    "candidate_detector": "deterministically proposes non-text source-pixel candidates from colour, edge and component evidence after OCR masking; it does not produce final assets",
+    "vision_route": "locally verifies detector candidates, hierarchy, classification, source-pixel geometry and fixed/movable decoration decisions; it never self-certifies recall from a free-form whole-slide list",
+    "mask_builder": "union text/non-text/movable-decoration/shadow masks while excluding approved fixed decoration",
+    "background_cleaner": "reconstruct BASE_BG only inside precise union foreground mask; never median-fill unresolved regions; emit FIXED_DECOR separately",
+    "background_auditor": "OCR rescan, semantic non-text rescan, edge residual, outside-mask identity, seam and fixed-decoration completeness checks; any unresolved result blocks fusion",
+    "gallery_retriever": "uses verified candidate crops only as retrieval queries; ranks Top-K by silhouette/structure/direction/style, then asks local VLM adjudication without using source crops as final assets",
+    "asset_executor": "instantiate the actual native/SVG/PNG asset type rather than inserting preview PNGs; prefer a validated real-vector SVG for eligible complex assets and fall back to the reviewed transparent PNG when vector review fails",
+    "text_builder": "create one visible editable object for every OCR record and split mixed value/unit runs",
+    "nontext_builder": "create native components and reviewed independent assets with stable IDs, groups and z-order",
+    "route_auditor": "score OCR and non-text only on their masks; never let the background inflate foreground scores",
+    "fusion_gate": "merge only independently passing BASE_BG/FIXED_DECOR background route, OCR route and NONTEXT route; background failure blocks all fusion",
+    "editability_auditor": "hide-layer, move, delete, source-image and shape-tree tests",
+    "repair_coordinator": "missing-first top-left sweep and escalation until pass or explicit needs_review; emits explicit replace/add operation semantics, stages each action as an isolated candidate and may pass only independently proven beneficial, non-occluding actions to final fusion",
+    "vector_asset_validator": "checks SVG contains real vector paths or geometry, contains no embedded raster payload, remains within complexity limits, and wins a local SVG-vs-PNG render comparison before insertion"
+    ,"asset_preflight_auditor": "compares each Qwen-generated or gallery asset to its source local crop before candidate insertion; rejects structural, palette, scene-style, text and grid-fragment mismatches"
+  },
+  "hard_fail_rules": [
+    "visible_full_source_reference",
+    "source_foreground_present_in_bg_clean",
+    "background_ocr_rescan_detects_text",
+    "ocr_record_without_visible_text_object",
+    "major_nontext_missing",
+    "unverified_nontext_candidate",
+    "ocr_numeric_misclassified_as_visual_asset",
+    "image_asset_contains_ocr_text",
+    "structural_gallery_veto",
+    "preview_png_used_for_native_or_svg_asset",
+    "wrong_arrow_direction",
+    "wrong_layering_or_occlusion",
+    "existing_native_component_covered_by_repair_overlay",
+    "compound_repair_omits_visible_child_primitive",
+    "coordinate_contract_violation",
+    "repair_coordinate_mode_undeclared_or_unroundtrippable",
+    "unaccepted_repair_candidate_in_final_composite",
+    "embedded_raster_disguised_as_svg",
+    "unreviewed_generated_asset_inserted",
+    "move_or_delete_test_reveals_baked_foreground",
+    "render_score_derived_from_counts_or_full_source_background",
+    "route_fusion_before_independent_pass"
+  ]
+}
